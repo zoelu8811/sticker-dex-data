@@ -1,6 +1,6 @@
 {
- "name": "p9d",
- "title": "p9d · 11-03 补满庄4款",
+ "name": "p9e",
+ "title": "p9e · 11-03 补帽帽拾趣甜铺街",
  "update": [
   {
    "id": "xhs-2f8f54aa0b",
@@ -184,6 +184,21 @@
   }
  ],
  "add": [
+  {
+   "_id": "seed-001",
+   "name": "帽帽拾趣甜铺街",
+   "shop": "舒里舒外工作室",
+   "type": "单张场景卡",
+   "series": "2.0",
+   "price": "16.9",
+   "size": "造景卡301×214mm；背卡214×366.4mm",
+   "sheets": "297×210mm×4张 + 126×210mm×1张",
+   "pieces": "300+",
+   "fit": "定位率约80%",
+   "craft": "PET",
+   "theme": "街景店铺",
+   "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
   {
    "_id": "xhs-d8777bc998",
    "name": "黛瓦古街",
