@@ -1,6 +1,6 @@
 {
- "name": "p9a",
- "title": "p9a · 11-03 满庄",
+ "name": "p7b",
+ "title": "小红书补充 + 无图词条系列去掉品牌名 + 语闲改名",
  "update": [
   {
    "id": "seed-002",
@@ -1575,158 +1575,6 @@
    },
    "expect": {
     "series": "利胜1.0 四季小镇系列"
-   }
-  },
-  {
-   "id": "xhs-2f8f54aa0b",
-   "data": {
-    "shop": "满庄",
-    "series": "3.0"
-   },
-   "expect": {
-    "shop": "镇禧",
-    "series": "满庄3.0"
-   }
-  },
-  {
-   "id": "seed-151",
-   "data": {
-    "shop": "满庄",
-    "series": "3.0"
-   },
-   "expect": {
-    "shop": "镇禧",
-    "series": "满庄3.0"
-   }
-  },
-  {
-   "id": "seed-152",
-   "data": {
-    "shop": "满庄",
-    "series": "4.0"
-   },
-   "expect": {
-    "shop": "镇禧",
-    "series": "满庄4.0"
-   }
-  },
-  {
-   "id": "seed-405",
-   "data": {
-    "shop": "满庄",
-    "series": "4.0"
-   },
-   "expect": {
-    "shop": "镇禧",
-    "series": "满庄4.0"
-   }
-  },
-  {
-   "id": "xhs-b706323fd4",
-   "data": {
-    "series": ""
-   },
-   "expect": {
-    "series": "熠奇乐"
-   }
-  },
-  {
-   "id": "xhs-de0d7b648e",
-   "data": {
-    "series": ""
-   },
-   "expect": {
-    "series": "熠奇乐"
-   }
-  },
-  {
-   "id": "xhs-ea6e445dde",
-   "data": {
-    "series": ""
-   },
-   "expect": {
-    "series": "熠奇乐"
-   }
-  },
-  {
-   "id": "xhs-b3a9c79ae7",
-   "data": {
-    "series": ""
-   },
-   "expect": {
-    "series": "熠奇乐"
-   }
-  },
-  {
-   "id": "xhs-9071390a24",
-   "data": {
-    "series": ""
-   },
-   "expect": {
-    "series": "熠奇乐"
-   }
-  },
-  {
-   "id": "xhs-756e91bef3",
-   "data": {
-    "series": ""
-   },
-   "expect": {
-    "series": "熠奇乐"
-   }
-  },
-  {
-   "id": "xhs-28b53b7bc2",
-   "data": {
-    "series": ""
-   },
-   "expect": {
-    "series": "熠奇乐"
-   }
-  },
-  {
-   "id": "xhs-c57ac18835",
-   "data": {
-    "series": ""
-   },
-   "expect": {
-    "series": "熠奇乐"
-   }
-  },
-  {
-   "id": "xhs-1398914cc1",
-   "data": {
-    "series": ""
-   },
-   "expect": {
-    "series": "熠奇乐"
-   }
-  },
-  {
-   "id": "xhs-882c6b63a2",
-   "data": {
-    "series": ""
-   },
-   "expect": {
-    "series": "熠奇乐"
-   }
-  },
-  {
-   "id": "xhs-1786732ffa",
-   "data": {
-    "films": "特油"
-   },
-   "expect": {
-    "films": "贝壳光"
-   }
-  },
-  {
-   "id": "xhs-19d3e9bed2",
-   "data": {
-    "films": "特油、贝壳光"
-   },
-   "expect": {
-    "films": "贝壳光"
    }
   }
  ],
@@ -17361,13 +17209,6 @@
   }
  ],
  "shopRename": {
-  "语闲（有控生活馆）": "语闲",
-  "慢一点": "慢一点文创"
- },
- "dedupeShop": [
-  "慢一点文创"
- ],
- "removeShop": [
-  "拾乐"
- ]
+  "语闲（有控生活馆）": "语闲"
+ }
 }
