@@ -1,6 +1,6 @@
 {
- "name": "p8z",
- "title": "p8z · 11-03 零星浮岛",
+ "name": "p9a",
+ "title": "p9a · 11-03 满庄",
  "update": [
   {
    "id": "seed-002",
@@ -1575,6 +1575,50 @@
    },
    "expect": {
     "series": "利胜1.0 四季小镇系列"
+   }
+  },
+  {
+   "id": "xhs-2f8f54aa0b",
+   "data": {
+    "shop": "满庄",
+    "series": "3.0"
+   },
+   "expect": {
+    "shop": "镇禧",
+    "series": "满庄3.0"
+   }
+  },
+  {
+   "id": "seed-151",
+   "data": {
+    "shop": "满庄",
+    "series": "3.0"
+   },
+   "expect": {
+    "shop": "镇禧",
+    "series": "满庄3.0"
+   }
+  },
+  {
+   "id": "seed-152",
+   "data": {
+    "shop": "满庄",
+    "series": "4.0"
+   },
+   "expect": {
+    "shop": "镇禧",
+    "series": "满庄4.0"
+   }
+  },
+  {
+   "id": "seed-405",
+   "data": {
+    "shop": "满庄",
+    "series": "4.0"
+   },
+   "expect": {
+    "shop": "镇禧",
+    "series": "满庄4.0"
    }
   },
   {
@@ -15546,6 +15590,266 @@
    "pieces": "",
    "artist": "",
    "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-db7a9746c7",
+   "name": "圣诞小镇",
+   "shop": "满庄",
+   "series": "1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "26.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-a9c1feb58a",
+   "name": "海边别墅",
+   "shop": "满庄",
+   "series": "1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "19.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-9604d9010e",
+   "name": "上元夜游记",
+   "shop": "满庄",
+   "series": "2.0",
+   "films": "特油、亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "16.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-ca12e6496c",
+   "name": "杭州西湖",
+   "shop": "满庄",
+   "series": "2.0",
+   "films": "特油、亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "16.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-4a7949f67d",
+   "name": "重庆洪崖洞",
+   "shop": "满庄",
+   "series": "2.0",
+   "films": "特油、亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "16.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-ff2b94f1c6",
+   "name": "中国台湾",
+   "shop": "满庄",
+   "series": "",
+   "films": "特油、亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "28.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-a31a31715a",
+   "name": "民国大世界",
+   "shop": "满庄",
+   "series": "4.0",
+   "films": "特油、亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "23.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-54c7997f39",
+   "name": "湖南",
+   "shop": "满庄",
+   "series": "5.0",
+   "films": "特油、亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "36.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-abdfe31f7c",
+   "name": "满庄好吃街",
+   "shop": "满庄",
+   "series": "5.0",
+   "films": "特油、亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "25.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-ad1488ff7d",
+   "name": "疯狂培训班",
+   "shop": "满庄",
+   "series": "5.0",
+   "films": "特油、亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "16.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-dba1ca0e8a",
+   "name": "我家楼下",
+   "shop": "满庄",
+   "series": "5.0",
+   "films": "特油、亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "13.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-eef19322a1",
+   "name": "蝶仓市集",
+   "shop": "满庄",
+   "series": "5.0",
+   "films": "特油、亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "13.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-d8777bc998",
+   "name": "黛瓦古街",
+   "shop": "满庄",
+   "series": "5.0",
+   "films": "特油、亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "13.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
   }
  ],
  "remove": [],
@@ -17007,6 +17311,52 @@
    "name": "开房车去旅行",
    "data": {
     "price": "16.8"
+   }
+  },
+  {
+   "shop": "满庄",
+   "name": "圣诞小镇",
+   "data": {
+    "size": "场景效果卡500×710mm；场景卡500×350mm；PET贴纸300×200mm×9张"
+   }
+  },
+  {
+   "shop": "满庄",
+   "name": "海边别墅",
+   "data": {
+    "size": "场景效果卡303×471mm；场景卡303×426mm；PET贴纸303×216mm×4张"
+   }
+  },
+  {
+   "shop": "满庄",
+   "name": "镇禧",
+   "data": {
+    "price": "36.8",
+    "films": "特油、亮膜"
+   }
+  },
+  {
+   "shop": "满庄",
+   "name": "欧式街景",
+   "data": {
+    "price": "25.8",
+    "films": "特油、亮膜"
+   }
+  },
+  {
+   "shop": "满庄",
+   "name": "小镇夜市",
+   "data": {
+    "price": "28.8",
+    "films": "特油、亮膜"
+   }
+  },
+  {
+   "shop": "满庄",
+   "name": "田园牧歌",
+   "data": {
+    "price": "26.8",
+    "films": "特油、亮膜"
    }
   }
  ],
