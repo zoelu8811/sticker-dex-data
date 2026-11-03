@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>贴图鉴上架记录</title>
+<style>
+/* 只读版上架记录：数据在同目录 tracker.json，由 Claude 同步更新。不用外部字体，国内打开快 */
+:root {
+  --bg: #fdf3f2; --paper: #ffffff; --ink: #4a3540; --ink2: #8f7480; --line: #f0d9df;
+  --accent: #e9578a; --accent-soft: #fde2ea;
+  --s-todo: #ece3e6; --s-doing: #ffe9a8; --s-done: #c8efd5;
+  --f: "PingFang SC", "Microsoft YaHei", "Noto Sans SC", sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #1f171b; --paper: #2a2025; --ink: #f3e6eb; --ink2: #b39ba6; --line: #43333b;
+  --accent: #ff7aa6; --accent-soft: #4a2735;
+  --s-todo: #3a2f34; --s-doing: #5a4a1c; --s-done: #1f4a30; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #1f171b; --paper: #2a2025; --ink: #f3e6eb; --ink2: #b39ba6; --line: #43333b;
+  --accent: #ff7aa6; --accent-soft: #4a2735;
+  --s-todo: #3a2f34; --s-doing: #5a4a1c; --s-done: #1f4a30; color-scheme: dark }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--f); font-size: 15px; line-height: 1.55; }
+.wrap { max-width: 860px; margin: 0 auto; padding: 24px max(16px, env(safe-area-inset-right)) 64px max(16px, env(safe-area-inset-left)); display: flex; flex-direction: column; gap: 16px; }
+h1 { font-size: 26px; margin: 0; letter-spacing: .02em; }
+.sub { color: var(--ink2); font-size: 13px; margin: 4px 0 0; }
+.stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.stat { background: var(--paper); border: 2px solid var(--line); border-radius: 16px; padding: 10px 14px; }
+.stat b { display: block; font-size: 24px; font-variant-numeric: tabular-nums; }
+.stat span { font-size: 12px; color: var(--ink2); }
+.bar { display: flex; height: 12px; border-radius: 999px; overflow: hidden; background: var(--s-todo); }
+.bar span { display: block; height: 100%; }
+.tools { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chip { font: inherit; font-size: 13px; border: 2px solid var(--line); background: var(--paper); color: var(--ink2); border-radius: 999px; padding: 3px 12px; cursor: pointer; display: inline-flex; gap: 6px; align-items: center; font-variant-numeric: tabular-nums; }
+.chip i { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+.chip.on { border-color: var(--accent); color: var(--ink); font-weight: 700; }
+.search { font: inherit; font-size: 16px; width: 100%; border: 2px solid var(--line); background: var(--paper); color: var(--ink); border-radius: 999px; padding: 8px 16px; }
+button:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.list { background: var(--paper); border: 2px solid var(--line); border-radius: 18px; overflow: hidden; }
+.row { border-top: 2px dashed var(--line); }
+.row:first-child { border-top: 0; }
+.head { display: grid; grid-template-columns: 28px 1fr auto; gap: 10px; align-items: center; padding: 11px 14px; cursor: pointer; width: 100%; background: none; border: 0; color: inherit; font: inherit; text-align: left; }
+.lt { color: var(--accent); font-weight: 700; text-align: center; }
+.nm { min-width: 0; }
+.nm strong { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.nm small { color: var(--ink2); font-size: 12px; display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.st { font-size: 12px; border-radius: 999px; padding: 2px 10px; white-space: nowrap; }
+.st.todo { background: var(--s-todo); } .st.doing { background: var(--s-doing); } .st.done { background: var(--s-done); }
+.ed { padding: 0 14px 14px 52px; display: grid; gap: 8px; font-size: 13px; }
+@media (max-width: 520px) { .ed { padding-left: 14px; } }
+.ed .k { color: var(--ink2); }
+.works { color: var(--ink2); }
+.hist { display: flex; flex-direction: column; gap: 4px; }
+.hist div { background: var(--bg); border-radius: 10px; padding: 5px 10px; font-variant-numeric: tabular-nums; }
+.empty { text-align: center; padding: 28px 16px; color: var(--ink2); }
+.note { background: var(--paper); border: 2px dashed var(--line); border-radius: 14px; padding: 12px 16px; font-size: 13px; color: var(--ink2); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>贴图鉴 · 上架记录</h1>
+    <p class="sub" id="upd">只读版 · 正在读取…</p>
+  </header>
+  <div class="stats">
+    <div class="stat"><b id="sDone">–</b><span>已录完</span></div>
+    <div class="stat"><b id="sDoing">–</b><span>录入中</span></div>
+    <div class="stat"><b id="sTodo">–</b><span>还没开始</span></div>
+  </div>
+  <div class="bar" id="bar" aria-label="录入进度"></div>
+  <div class="tools" id="chips"></div>
+  <input class="search" id="q" type="search" placeholder="搜品牌名或作品名">
+  <div class="list" id="list"><div class="empty">正在读取品牌列表…</div></div>
+  <div class="note">这是只读版。要改状态、加品牌、写备注，跟 Claude 说一声，改好后这里会同步（可能要等几分钟，刷新一下）。</div>
+</div>
+<script>
+const ST = [
+  { k: 'todo', t: '未开始', c: 'var(--s-todo)' },
+  { k: 'doing', t: '录入中', c: 'var(--s-doing)' },
+  { k: 'done', t: '已录完', c: 'var(--s-done)' }
+]
+const T = Object.fromEntries(ST.map(s => [s.k, s.t]))
+let rows = [], filt = 'all', open = null
+const $ = id => document.getElementById(id)
+const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]))
+const day = ms => { if (!ms) return ''; const d = new Date(ms + 8 * 3600e3); return d.toISOString().slice(0, 10) }
+let saved = null
+try { saved = localStorage.getItem('tracker-filter') } catch (e) {}
+if (saved) filt = saved
+
+function render() {
+  const n = { todo: 0, doing: 0, done: 0 }
+  rows.forEach(r => n[r.status]++)
+  $('sDone').textContent = n.done; $('sDoing').textContent = n.doing; $('sTodo').textContent = n.todo
+  const tot = rows.length || 1
+  $('bar').innerHTML = ['done', 'doing'].map(k => `<span style="width:${n[k] / tot * 100}%;background:var(--s-${k})"></span>`).join('')
+  $('chips').innerHTML = [{ k: 'all', t: '全部', n: rows.length }].concat(ST.map(s => ({ k: s.k, t: s.t, n: n[s.k], c: s.c })))
+    .map(c => `<button class="chip ${filt === c.k ? 'on' : ''}" data-f="${c.k}">${c.c ? `<i style="background:${c.c}"></i>` : ''}${c.t} ${c.n}</button>`).join('')
+  const q = $('q').value.trim().toLowerCase()
+  const list = rows.filter(r => (filt === 'all' || r.status === filt) &&
+    (!q || r.name.toLowerCase().includes(q) || (r.works || []).some(w => w.toLowerCase().includes(q))))
+  if (!list.length) { $('list').innerHTML = '<div class="empty">没有符合的品牌</div>'; return }
+  $('list').innerHTML = list.map(r => {
+    const meta = [`${r.n || 0} 款`, r.pics ? `有图 ${r.pics}` : '', r.lastDrop ? `上新 ${r.lastDrop}` : '', r.note].filter(Boolean).join(' · ')
+    let body = ''
+    if (open === r.id) {
+      const nop = (r.nopic || []).length ? `<div><span class="k">还没图：</span><span class="works">${esc(r.nopic.join('、'))}</span></div>` : ''
+      const hist = (r.log || []).length ? `<div class="k">历次上架</div><div class="hist">${r.log.slice().reverse().map(h => `<div>${esc(day(h.at))}${h.drop ? ' · 当时上新 ' + esc(h.drop) : ''}${h.note ? ' · ' + esc(h.note) : ''}</div>`).join('')}</div>` : ''
+      body = `<div class="ed">
+        ${r.doneAt ? `<div><span class="k">录完日期：</span>${esc(day(r.doneAt))}</div>` : ''}
+        ${r.note ? `<div><span class="k">备注：</span>${esc(r.note)}</div>` : ''}
+        ${nop}${hist}
+        ${!nop && !hist && !r.note && !r.doneAt ? '<div class="k">没有更多记录</div>' : ''}
+      </div>`
+    }
+    return `<div class="row"><button class="head" data-id="${esc(r.id)}" aria-expanded="${open === r.id}">
+      <span class="lt">${esc(r.letter || '#')}</span>
+      <span class="nm"><strong>${esc(r.name)}</strong><small>${esc(meta)}</small></span>
+      <span class="st ${r.status}">${T[r.status]}</span></button>${body}</div>`
+  }).join('')
+}
+$('chips').addEventListener('click', e => {
+  const b = e.target.closest('[data-f]'); if (!b) return
+  filt = b.dataset.f
+  try { localStorage.setItem('tracker-filter', filt) } catch (err) {}
+  render()
+})
+$('list').addEventListener('click', e => {
+  const b = e.target.closest('.head'); if (!b) return
+  open = open === b.dataset.id ? null : b.dataset.id; render()
+})
+$('q').addEventListener('input', render)
+fetch('tracker.json?t=' + Date.now()).then(r => r.json()).then(d => {
+  rows = (d.brands || []).map(r => Object.assign({}, r, { status: T[r.status] ? r.status : 'todo' }))
+  rows.sort((a, b) => (a.letter || '~').localeCompare(b.letter || '~') || (a.order || 0) - (b.order || 0))
+  $('upd').textContent = '只读版 · 更新于 ' + (d.updated || '')
+  render()
+}).catch(() => { $('list').innerHTML = '<div class="empty">读取失败，刷新一下再试</div>' })
+</script>
+</body>
+</html>
