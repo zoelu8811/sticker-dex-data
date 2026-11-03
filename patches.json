@@ -1,6 +1,6 @@
 {
- "name": "p8k",
- "title": "p8k · 11-03 贴纸游乐园",
+ "name": "p8l",
+ "title": "p8l · 11-03 头号玩家",
  "update": [
   {
    "id": "seed-002",
@@ -10916,6 +10916,146 @@
    "pieces": "",
    "artist": "",
    "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-2590587685",
+   "name": "线团集市",
+   "shop": "头号玩家",
+   "series": "5.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "11.9",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-f10c62c915",
+   "name": "线团乐园",
+   "shop": "头号玩家",
+   "series": "5.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "11.9",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-a0289f155c",
+   "name": "逛公园",
+   "shop": "头号玩家",
+   "series": "3.0",
+   "films": "特油",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "12.9",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-50a659509e",
+   "name": "闪闪小镇",
+   "shop": "头号玩家",
+   "series": "3.0",
+   "films": "特油",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "13.9",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-c0aead9a2d",
+   "name": "忆江南",
+   "shop": "头号玩家",
+   "series": "3.0",
+   "films": "特油",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "12.9",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-7e938c6b71",
+   "name": "一隅书桌",
+   "shop": "头号玩家",
+   "series": "2.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "10.9",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-14c6602ac2",
+   "name": "坚尼地城",
+   "shop": "头号玩家",
+   "series": "1.0",
+   "films": "特油",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "13.9",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
   }
  ],
  "remove": [],
@@ -11177,6 +11317,37 @@
     "series": "1.0",
     "films": "特油、亮膜",
     "price": "13.8"
+   }
+  },
+  {
+   "shop": "头号玩家",
+   "name": "申城慢街",
+   "data": {
+    "price": "12.9",
+    "films": "特油"
+   }
+  },
+  {
+   "shop": "头号玩家",
+   "name": "京郊旧巷",
+   "data": {
+    "price": "12.9"
+   }
+  },
+  {
+   "shop": "头号玩家",
+   "name": "午后厨房",
+   "data": {
+    "series": "2.0",
+    "price": "10.9"
+   }
+  },
+  {
+   "shop": "头号玩家",
+   "name": "林边牧场",
+   "data": {
+    "price": "14.9",
+    "films": "特油"
    }
   }
  ],
