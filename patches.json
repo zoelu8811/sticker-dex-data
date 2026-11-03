@@ -1,6 +1,6 @@
 {
- "name": "p8x",
- "title": "p8w · 11-03 鲸橙熠奇乐（四）",
+ "name": "p8y",
+ "title": "p8w · 11-03 鲸橙系列修正",
  "update": [
   {
    "id": "seed-002",
@@ -1575,6 +1575,96 @@
    },
    "expect": {
     "series": "利胜1.0 四季小镇系列"
+   }
+  },
+  {
+   "id": "xhs-b706323fd4",
+   "data": {
+    "series": ""
+   },
+   "expect": {
+    "series": "熠奇乐"
+   }
+  },
+  {
+   "id": "xhs-de0d7b648e",
+   "data": {
+    "series": ""
+   },
+   "expect": {
+    "series": "熠奇乐"
+   }
+  },
+  {
+   "id": "xhs-ea6e445dde",
+   "data": {
+    "series": ""
+   },
+   "expect": {
+    "series": "熠奇乐"
+   }
+  },
+  {
+   "id": "xhs-b3a9c79ae7",
+   "data": {
+    "series": ""
+   },
+   "expect": {
+    "series": "熠奇乐"
+   }
+  },
+  {
+   "id": "xhs-9071390a24",
+   "data": {
+    "series": ""
+   },
+   "expect": {
+    "series": "熠奇乐"
+   }
+  },
+  {
+   "id": "xhs-756e91bef3",
+   "data": {
+    "series": ""
+   },
+   "expect": {
+    "series": "熠奇乐"
+   }
+  },
+  {
+   "id": "xhs-28b53b7bc2",
+   "data": {
+    "series": ""
+   },
+   "expect": {
+    "series": "熠奇乐"
+   }
+  },
+  {
+   "id": "xhs-c57ac18835",
+   "data": {
+    "series": ""
+   },
+   "expect": {
+    "series": "熠奇乐"
+   }
+  },
+  {
+   "id": "xhs-1398914cc1",
+   "data": {
+    "series": ""
+   },
+   "expect": {
+    "series": "熠奇乐"
+   }
+  },
+  {
+   "id": "xhs-882c6b63a2",
+   "data": {
+    "series": ""
+   },
+   "expect": {
+    "series": "熠奇乐"
    }
   },
   {
@@ -13861,7 +13951,7 @@
    "_id": "xhs-b706323fd4",
    "name": "白麦屋",
    "shop": "鲸橙星河文创局",
-   "series": "熠奇乐",
+   "series": "",
    "films": "特油",
    "desc": "",
    "official": false,
@@ -14661,7 +14751,7 @@
    "_id": "xhs-de0d7b648e",
    "name": "夏日之森",
    "shop": "鲸橙星河文创局",
-   "series": "熠奇乐",
+   "series": "",
    "films": "特油",
    "desc": "",
    "official": false,
@@ -14701,7 +14791,7 @@
    "_id": "xhs-c57ac18835",
    "name": "米奇乐园",
    "shop": "鲸橙星河文创局",
-   "series": "熠奇乐",
+   "series": "",
    "films": "",
    "desc": "",
    "official": false,
@@ -14801,7 +14891,7 @@
    "_id": "xhs-b3a9c79ae7",
    "name": "绒偶阁楼日记",
    "shop": "鲸橙星河文创局",
-   "series": "熠奇乐",
+   "series": "",
    "films": "",
    "desc": "",
    "official": false,
@@ -14881,7 +14971,7 @@
    "_id": "xhs-28b53b7bc2",
    "name": "笔仙事件",
    "shop": "鲸橙星河文创局",
-   "series": "熠奇乐",
+   "series": "",
    "films": "",
    "desc": "",
    "official": false,
@@ -14961,7 +15051,7 @@
    "_id": "xhs-756e91bef3",
    "name": "别关灯！这里有小镇",
    "shop": "鲸橙星河文创局",
-   "series": "熠奇乐",
+   "series": "",
    "films": "",
    "desc": "",
    "official": false,
@@ -15101,7 +15191,7 @@
    "_id": "xhs-9071390a24",
    "name": "困鸦",
    "shop": "鲸橙星河文创局",
-   "series": "熠奇乐",
+   "series": "",
    "films": "",
    "desc": "",
    "official": false,
@@ -15141,7 +15231,7 @@
    "_id": "xhs-ea6e445dde",
    "name": "斯卡布罗集市",
    "shop": "鲸橙星河文创局",
-   "series": "熠奇乐",
+   "series": "",
    "films": "",
    "desc": "",
    "official": false,
@@ -15321,7 +15411,7 @@
    "_id": "xhs-882c6b63a2",
    "name": "兰溪芥子园游埠早点",
    "shop": "鲸橙星河文创局",
-   "series": "熠奇乐",
+   "series": "",
    "films": "",
    "desc": "",
    "official": false,
@@ -15401,7 +15491,7 @@
    "_id": "xhs-1398914cc1",
    "name": "烟火山城",
    "shop": "鲸橙星河文创局",
-   "series": "熠奇乐",
+   "series": "",
    "films": "",
    "desc": "",
    "official": false,
@@ -15441,7 +15531,7 @@
    "_id": "xhs-a8e0b58ec5",
    "name": "鎏光私阁",
    "shop": "鲸橙星河文创局",
-   "series": "熠奇乐",
+   "series": "",
    "films": "特油",
    "desc": "",
    "official": false,
@@ -16870,7 +16960,6 @@
    "shop": "鲸橙星河文创局",
    "name": "鎏光私阁",
    "data": {
-    "series": "熠奇乐",
     "price": "9.9",
     "films": "特油"
    }
