@@ -1,6 +1,6 @@
 {
- "name": "p8s",
- "title": "p8s · 11-03 花海文创",
+ "name": "p8t",
+ "title": "p8t · 11-03 盒子行动2.0",
  "update": [
   {
    "id": "seed-002",
@@ -11841,7 +11841,7 @@
    "_id": "xhs-e6309f5e3a",
    "name": "新春街巷",
    "shop": "盒子行动",
-   "series": "",
+   "series": "2.0",
    "films": "亮膜",
    "desc": "",
    "official": false,
@@ -11861,7 +11861,7 @@
    "_id": "xhs-ef122e4ef4",
    "name": "年景巷口",
    "shop": "盒子行动",
-   "series": "",
+   "series": "2.0",
    "films": "亮膜",
    "desc": "",
    "official": false,
@@ -11881,7 +11881,7 @@
    "_id": "xhs-3da10efb9f",
    "name": "我的冬日结界",
    "shop": "盒子行动",
-   "series": "",
+   "series": "2.0",
    "films": "亮膜",
    "desc": "",
    "official": false,
@@ -11901,7 +11901,7 @@
    "_id": "xhs-a197230716",
    "name": "叶隙间的时光",
    "shop": "盒子行动",
-   "series": "",
+   "series": "2.0",
    "films": "亮膜",
    "desc": "",
    "official": false,
@@ -12788,6 +12788,34 @@
     "size": "176×256mm",
     "sheets": "场景卡×1 + 贴纸×3",
     "craft": "PET/白卡"
+   }
+  },
+  {
+   "shop": "盒子行动",
+   "name": "新春街巷",
+   "data": {
+    "series": "2.0"
+   }
+  },
+  {
+   "shop": "盒子行动",
+   "name": "年景巷口",
+   "data": {
+    "series": "2.0"
+   }
+  },
+  {
+   "shop": "盒子行动",
+   "name": "我的冬日结界",
+   "data": {
+    "series": "2.0"
+   }
+  },
+  {
+   "shop": "盒子行动",
+   "name": "叶隙间的时光",
+   "data": {
+    "series": "2.0"
    }
   }
  ],
