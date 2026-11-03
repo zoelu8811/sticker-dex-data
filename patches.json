@@ -1,5 +1,5 @@
 {
- "name": "p8g",
+ "name": "p8h",
  "title": "小红书补充 + 系列去品牌名 + 品牌合并（语闲、慢一点文创）",
  "update": [
   {
@@ -10338,6 +10338,86 @@
    "pieces": "",
    "artist": "",
    "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-b96dbbd30f",
+   "name": "铃兰庄园",
+   "shop": "橙子莉莉",
+   "series": "7.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "9.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-453e974aae",
+   "name": "春·手作坊",
+   "shop": "橙子莉莉",
+   "series": "6.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "9.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-7262d2afa3",
+   "name": "秋·烘焙坊",
+   "shop": "橙子莉莉",
+   "series": "6.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "9.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-0768f9868a",
+   "name": "暖阳小街",
+   "shop": "橙子莉莉",
+   "series": "6.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "13.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
   }
  ],
  "remove": [],
@@ -10474,6 +10554,62 @@
    "name": "植愈之地",
    "data": {
     "films": "特油"
+   }
+  },
+  {
+   "shop": "橙子莉莉",
+   "name": "喵喵广场",
+   "data": {
+    "price": "13.8"
+   }
+  },
+  {
+   "shop": "橙子莉莉",
+   "name": "幸福公园",
+   "data": {
+    "price": "10.8"
+   }
+  },
+  {
+   "shop": "橙子莉莉",
+   "name": "宅家时光",
+   "data": {
+    "price": "8.8"
+   }
+  },
+  {
+   "shop": "橙子莉莉",
+   "name": "熊宝之家",
+   "data": {
+    "price": "11.8"
+   }
+  },
+  {
+   "shop": "橙子莉莉",
+   "name": "积木小镇",
+   "data": {
+    "price": "14.8"
+   }
+  },
+  {
+   "shop": "橙子莉莉",
+   "name": "草莓小镇",
+   "data": {
+    "price": "10.8"
+   }
+  },
+  {
+   "shop": "橙子莉莉",
+   "name": "甜心小屋",
+   "data": {
+    "price": "13.8"
+   }
+  },
+  {
+   "shop": "橙子莉莉",
+   "name": "绿屿树屋",
+   "data": {
+    "price": "12.8"
    }
   }
  ],
