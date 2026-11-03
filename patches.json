@@ -1,6 +1,6 @@
 {
- "name": "p8i",
- "title": "p8i · 11-03 舒里舒外",
+ "name": "p8j",
+ "title": "p8j · 11-03 橙汁汽水",
  "update": [
   {
    "id": "seed-002",
@@ -1575,6 +1575,24 @@
    },
    "expect": {
     "series": "利胜1.0 四季小镇系列"
+   }
+  },
+  {
+   "id": "xhs-1786732ffa",
+   "data": {
+    "films": "特油"
+   },
+   "expect": {
+    "films": "贝壳光"
+   }
+  },
+  {
+   "id": "xhs-19d3e9bed2",
+   "data": {
+    "films": "特油、贝壳光"
+   },
+   "expect": {
+    "films": "贝壳光"
    }
   }
  ],
@@ -7604,7 +7622,7 @@
    "name": "如梦令",
    "shop": "橙汁汽水",
    "series": "3.0",
-   "films": "贝壳光",
+   "films": "特油、贝壳光",
    "desc": "",
    "official": false,
    "type": "",
@@ -7624,7 +7642,7 @@
    "name": "今日小镇有风",
    "shop": "橙汁汽水",
    "series": "3.0",
-   "films": "贝壳光",
+   "films": "特油",
    "desc": "",
    "official": false,
    "type": "",
@@ -10658,6 +10676,66 @@
    "pieces": "",
    "artist": "",
    "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-43491bbf45",
+   "name": "破隙里的秋光",
+   "shop": "橙汁汽水",
+   "series": "",
+   "films": "特油",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "11.9",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-9484ee476d",
+   "name": "猫村公寓",
+   "shop": "橙汁汽水",
+   "series": "",
+   "films": "特油",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "18.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-274b1aa5d0",
+   "name": "一人一猫",
+   "shop": "橙汁汽水",
+   "series": "",
+   "films": "特油",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "12.9",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
   }
  ],
  "remove": [],
@@ -10872,6 +10950,44 @@
    "data": {
     "price": "16.9",
     "films": "亮膜"
+   }
+  },
+  {
+   "shop": "橙汁汽水",
+   "name": "如梦令",
+   "data": {
+    "price": "17.9"
+   }
+  },
+  {
+   "shop": "橙汁汽水",
+   "name": "今日小镇有风",
+   "data": {
+    "price": "15.9"
+   }
+  },
+  {
+   "shop": "橙汁汽水",
+   "name": "福来客栈",
+   "data": {
+    "price": "15.8",
+    "films": "特油"
+   }
+  },
+  {
+   "shop": "橙汁汽水",
+   "name": "我与猫猫的田园生活",
+   "data": {
+    "price": "16.8",
+    "films": "特油"
+   }
+  },
+  {
+   "shop": "橙汁汽水",
+   "name": "美式田园小院",
+   "data": {
+    "price": "13.9",
+    "films": "特油"
    }
   }
  ],
