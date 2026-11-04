@@ -1,6 +1,6 @@
 {
- "name": "p9l",
- "title": "p9l · 11-05 一只猫喵",
+ "name": "p9m",
+ "title": "p9m · 11-05 删一只猫喵2.0",
  "update": [
   {
    "id": "xhs-d9de4c92c5",
@@ -5898,7 +5898,8 @@
  ],
  "remove": [
   "seed-150",
-  "seed-285"
+  "seed-285",
+  "seed-325"
  ],
  "fill": [
   {
