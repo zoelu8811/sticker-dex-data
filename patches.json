@@ -1,7 +1,43 @@
 {
- "name": "p9h",
- "title": "p9h · 11-05 触感膜",
+ "name": "p9i",
+ "title": "p9i · 11-05 镭射膜细分",
  "update": [
+  {
+   "id": "xhs-d9de4c92c5",
+   "data": {
+    "films": "特油、镭射细砂膜"
+   },
+   "expect": {
+    "films": "特油、镭射"
+   }
+  },
+  {
+   "id": "xhs-04b7f9fb85",
+   "data": {
+    "films": "特油、镭射碎闪膜"
+   },
+   "expect": {
+    "films": "特油、镭射"
+   }
+  },
+  {
+   "id": "xhs-b1718e111a",
+   "data": {
+    "films": "特油、镭射碎闪膜"
+   },
+   "expect": {
+    "films": "特油、镭射"
+   }
+  },
+  {
+   "id": "xhs-7cecb6762b",
+   "data": {
+    "films": "特油、镭射烟花膜"
+   },
+   "expect": {
+    "films": "特油、镭射"
+   }
+  },
   {
    "id": "xhs-e5618c84f1",
    "data": {
@@ -368,6 +404,118 @@
    },
    "expect": {
     "films": "贝壳光"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
+   }
+  },
+  {
+   "id": "__noop__",
+   "data": {},
+   "expect": {
+    "__noop__": "x"
    }
   }
  ],
@@ -3232,7 +3380,7 @@
    "name": "金堡绮筵",
    "shop": "贴纸游乐园 Sticker Park",
    "series": "3.0",
-   "films": "特油、镭射",
+   "films": "特油、镭射烟花膜",
    "desc": "",
    "official": false,
    "type": "",
@@ -3252,7 +3400,7 @@
    "name": "科莫汀梦",
    "shop": "贴纸游乐园 Sticker Park",
    "series": "3.0",
-   "films": "特油、镭射",
+   "films": "特油、镭射碎闪膜",
    "desc": "",
    "official": false,
    "type": "",
@@ -3272,7 +3420,7 @@
    "name": "锦阁琉光",
    "shop": "贴纸游乐园 Sticker Park",
    "series": "2.0",
-   "films": "特油、镭射",
+   "films": "特油、镭射碎闪膜",
    "desc": "",
    "official": false,
    "type": "",
@@ -3292,7 +3440,7 @@
    "name": "游园茶叙",
    "shop": "贴纸游乐园 Sticker Park",
    "series": "2.0",
-   "films": "特油、镭射",
+   "films": "特油、镭射细砂膜",
    "desc": "",
    "official": false,
    "type": "",
