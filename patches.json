@@ -1,7 +1,43 @@
 {
- "name": "p9p",
- "title": "p9p · 11-05 云朵猫",
+ "name": "p9q",
+ "title": "p9q · 11-05 云朵猫2.0",
  "update": [
+  {
+   "id": "xhs-a8a07e7cc0",
+   "data": {
+    "series": "2.0 店中物语"
+   },
+   "expect": {
+    "series": "2.0"
+   }
+  },
+  {
+   "id": "xhs-c37ab3b9d1",
+   "data": {
+    "series": "2.0 店中物语"
+   },
+   "expect": {
+    "series": "2.0"
+   }
+  },
+  {
+   "id": "xhs-ce9902426d",
+   "data": {
+    "series": "2.0 店中物语"
+   },
+   "expect": {
+    "series": ""
+   }
+  },
+  {
+   "id": "xhs-29653effd0",
+   "data": {
+    "series": "2.0 店中物语"
+   },
+   "expect": {
+    "series": ""
+   }
+  },
   {
    "id": "xhs-d9de4c92c5",
    "data": {
@@ -489,34 +525,6 @@
    "expect": {
     "__noop__": "x"
    }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
   }
  ],
  "add": [
@@ -779,8 +787,8 @@
    "_id": "xhs-29653effd0",
    "name": "钟表维修工作室",
    "shop": "云朵猫",
-   "series": "",
-   "films": "",
+   "series": "2.0 店中物语",
+   "films": "特油、亮膜",
    "desc": "",
    "official": false,
    "type": "",
@@ -799,8 +807,8 @@
    "_id": "xhs-ce9902426d",
    "name": "时光褶皱",
    "shop": "云朵猫",
-   "series": "",
-   "films": "",
+   "series": "2.0 店中物语",
+   "films": "特油、亮膜",
    "desc": "",
    "official": false,
    "type": "",
@@ -7212,6 +7220,20 @@
    "name": "夏日的海岸线",
    "data": {
     "price": "17.8",
+    "films": "特油、亮膜"
+   }
+  },
+  {
+   "shop": "云朵猫",
+   "name": "非遗文化街",
+   "data": {
+    "films": "特油、亮膜"
+   }
+  },
+  {
+   "shop": "云朵猫",
+   "name": "海螺商店",
+   "data": {
     "films": "特油、亮膜"
    }
   }
