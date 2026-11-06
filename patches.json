@@ -1,6 +1,6 @@
 {
- "name": "p9v",
- "title": "p9v · 11-06 纸迹银轴组曲",
+ "name": "p9w",
+ "title": "p9w · 11-06 纸迹（四）",
  "update": [
   {
    "id": "xhs-8db7571d2f",
@@ -566,6 +566,26 @@
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
   },
   {
+   "_id": "xhs-dc3bfa182a",
+   "name": "雾屿巡空",
+   "shop": "纸迹",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "14.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供，泡泡手账diy）"
+  },
+  {
    "_id": "xhs-92f68c0ab6",
    "name": "春日小花房",
    "shop": "纸迹",
@@ -1056,7 +1076,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "",
+   "price": "14.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -1076,7 +1096,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "",
+   "price": "14.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -1096,7 +1116,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "",
+   "price": "14.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -8067,6 +8087,13 @@
    "name": "云深见鹿",
    "data": {
     "films": "烫银"
+   }
+  },
+  {
+   "shop": "纸迹",
+   "name": "雾卷星册",
+   "data": {
+    "price": "14.8"
    }
   }
  ],
