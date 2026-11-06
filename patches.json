@@ -1,6 +1,6 @@
 {
- "name": "p9y",
- "title": "p9y · 11-06 纸迹暮烬庄园",
+ "name": "p9z",
+ "title": "p9z · 11-06 纸迹绮梦画境",
  "update": [
   {
    "id": "xhs-8db7571d2f",
@@ -566,6 +566,66 @@
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
   },
   {
+   "_id": "xhs-f607e07689",
+   "name": "花园秘境",
+   "shop": "纸迹",
+   "series": "绮梦画境",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-677c81c5a9",
+   "name": "夜光许愿池",
+   "shop": "纸迹",
+   "series": "绮梦画境",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "内页180×250mm；包装300×200×2mm",
+   "sheets": "3张",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-3123a5caf8",
+   "name": "鲸落海洋",
+   "shop": "纸迹",
+   "series": "绮梦画境",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
    "_id": "xhs-7a23c8cbc1",
    "name": "暮烬庄园",
    "shop": "纸迹",
@@ -828,26 +888,6 @@
   {
    "_id": "xhs-0cb14966ef",
    "name": "宇宙秘语",
-   "shop": "纸迹",
-   "series": "",
-   "films": "",
-   "desc": "",
-   "official": false,
-   "type": "",
-   "set": "",
-   "theme": "",
-   "price": "24",
-   "size": "",
-   "sheets": "",
-   "fit": "",
-   "craft": "",
-   "pieces": "",
-   "artist": "",
-   "src": "商家页截图（用户提供）"
-  },
-  {
-   "_id": "xhs-4fca7d5d1d",
-   "name": "绮梦画境",
    "shop": "纸迹",
    "series": "",
    "films": "",
@@ -7631,7 +7671,8 @@
   "seed-285",
   "seed-325",
   "seed-311",
-  "seed-309"
+  "seed-309",
+  "xhs-4fca7d5d1d"
  ],
  "fill": [
   {
