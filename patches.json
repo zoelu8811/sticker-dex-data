@@ -1,7 +1,106 @@
 {
- "name": "p9r",
- "title": "p9r · 11-06 纸迹",
+ "name": "p9s",
+ "title": "p9s · 11-06 改记原价",
  "update": [
+  {
+   "id": "xhs-8db7571d2f",
+   "data": {
+    "price": "19.2"
+   },
+   "expect": {
+    "price": "13.2"
+   }
+  },
+  {
+   "id": "xhs-7f11edce1d",
+   "data": {
+    "price": "19.2"
+   },
+   "expect": {
+    "price": "13.2"
+   }
+  },
+  {
+   "id": "xhs-d1c5d0846a",
+   "data": {
+    "price": "15.8"
+   },
+   "expect": {
+    "price": "9.8"
+   }
+  },
+  {
+   "id": "xhs-002bbc9fb8",
+   "data": {
+    "price": "15.8"
+   },
+   "expect": {
+    "price": "9.8"
+   }
+  },
+  {
+   "id": "xhs-2c121f0784",
+   "data": {
+    "price": "15.8"
+   },
+   "expect": {
+    "price": "9.8"
+   }
+  },
+  {
+   "id": "xhs-a528267e83",
+   "data": {
+    "price": "13.8"
+   },
+   "expect": {
+    "price": "7.8"
+   }
+  },
+  {
+   "id": "xhs-2622b66bad",
+   "data": {
+    "price": "13.8"
+   },
+   "expect": {
+    "price": "7.8"
+   }
+  },
+  {
+   "id": "xhs-c2639c0be1",
+   "data": {
+    "price": "13.8"
+   },
+   "expect": {
+    "price": "7.8"
+   }
+  },
+  {
+   "id": "xhs-c03f443ce2",
+   "data": {
+    "price": "13.8"
+   },
+   "expect": {
+    "price": "7.8"
+   }
+  },
+  {
+   "id": "xhs-95465e7164",
+   "data": {
+    "price": "11.8"
+   },
+   "expect": {
+    "price": "10.8"
+   }
+  },
+  {
+   "id": "xhs-feb4273fe4",
+   "data": {
+    "price": "20.8"
+   },
+   "expect": {
+    "price": "19.8"
+   }
+  },
   {
    "id": "xhs-a8a07e7cc0",
    "data": {
@@ -448,83 +547,6 @@
    "expect": {
     "__noop__": "x"
    }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
   }
  ],
  "add": [
@@ -594,7 +616,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "13.2",
+   "price": "19.2",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -674,7 +696,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "7.8",
+   "price": "13.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -694,7 +716,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "7.8",
+   "price": "13.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -714,7 +736,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "7.8",
+   "price": "13.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -734,7 +756,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "7.8",
+   "price": "13.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -754,7 +776,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "9.8",
+   "price": "15.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -774,7 +796,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "9.8",
+   "price": "15.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -794,7 +816,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "9.8",
+   "price": "15.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -894,7 +916,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "13.2",
+   "price": "19.2",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -1954,7 +1976,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "19.8",
+   "price": "20.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -2594,7 +2616,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "10.8",
+   "price": "11.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -7609,7 +7631,7 @@
    "name": "默祷之翼",
    "data": {
     "series": "永恒之约",
-    "price": "12.8"
+    "price": "18.8"
    }
   },
   {
@@ -7617,7 +7639,7 @@
    "name": "天穹垂辉",
    "data": {
     "series": "永恒之约",
-    "price": "12.8"
+    "price": "18.8"
    }
   }
  ],
