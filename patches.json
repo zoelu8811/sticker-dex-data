@@ -1,6 +1,6 @@
 {
- "name": "p9u",
- "title": "p9u · 11-06 纸迹（三）",
+ "name": "p9v",
+ "title": "p9v · 11-06 纸迹银轴组曲",
  "update": [
   {
    "id": "xhs-8db7571d2f",
@@ -649,7 +649,7 @@
    "_id": "xhs-10f9f02781",
    "name": "暗键寻章",
    "shop": "纸迹",
-   "series": "",
+   "series": "银轴组曲",
    "films": "",
    "desc": "",
    "official": false,
@@ -669,7 +669,7 @@
    "_id": "xhs-f61f51b63c",
    "name": "旧话留音",
    "shop": "纸迹",
-   "series": "",
+   "series": "银轴组曲",
    "films": "",
    "desc": "",
    "official": false,
