@@ -1,6 +1,6 @@
 {
- "name": "p9x",
- "title": "p9x · 11-06 纸迹格律映画",
+ "name": "p9y",
+ "title": "p9y · 11-06 纸迹暮烬庄园",
  "update": [
   {
    "id": "xhs-8db7571d2f",
@@ -564,6 +564,26 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-7a23c8cbc1",
+   "name": "暮烬庄园",
+   "shop": "纸迹",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "合集本",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "内页180×290mm；包装335×195×10mm",
+   "sheets": "背景卡×7 + PET贴纸×12",
+   "fit": "",
+   "craft": "白卡+PET",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
   },
   {
    "_id": "xhs-07f96e35c4",
