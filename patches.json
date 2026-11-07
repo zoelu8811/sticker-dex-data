@@ -1,7 +1,43 @@
 {
- "name": "pa3",
- "title": "pa3 · 11-07 纸间童话",
+ "name": "pa4",
+ "title": "pa4 · 11-07 纸间童话22/23",
  "update": [
+  {
+   "id": "xhs-532bcb41a3",
+   "data": {
+    "series": "22.0"
+   },
+   "expect": {
+    "series": "22.0 / 23.0"
+   }
+  },
+  {
+   "id": "xhs-b9cb9f1b91",
+   "data": {
+    "series": "22.0"
+   },
+   "expect": {
+    "series": "22.0 / 23.0"
+   }
+  },
+  {
+   "id": "xhs-c7079c2557",
+   "data": {
+    "series": "23.0"
+   },
+   "expect": {
+    "series": "22.0 / 23.0"
+   }
+  },
+  {
+   "id": "xhs-160ba94350",
+   "data": {
+    "series": "23.0"
+   },
+   "expect": {
+    "series": "22.0 / 23.0"
+   }
+  },
   {
    "id": "seed-005",
    "data": {
@@ -673,34 +709,6 @@
    "expect": {
     "__noop__": "x"
    }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
   }
  ],
  "add": [
@@ -1143,7 +1151,7 @@
    "_id": "xhs-160ba94350",
    "name": "秋日小屋",
    "shop": "纸间童话",
-   "series": "22.0 / 23.0",
+   "series": "23.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -1163,7 +1171,7 @@
    "_id": "xhs-c7079c2557",
    "name": "冬日木屋",
    "shop": "纸间童话",
-   "series": "22.0 / 23.0",
+   "series": "23.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -1183,7 +1191,7 @@
    "_id": "xhs-b9cb9f1b91",
    "name": "魔法世界",
    "shop": "纸间童话",
-   "series": "22.0 / 23.0",
+   "series": "22.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -1203,7 +1211,7 @@
    "_id": "xhs-532bcb41a3",
    "name": "非主流发廊",
    "shop": "纸间童话",
-   "series": "22.0 / 23.0",
+   "series": "22.0",
    "films": "",
    "desc": "",
    "official": false,
