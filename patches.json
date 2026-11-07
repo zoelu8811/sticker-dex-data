@@ -1,6 +1,6 @@
 {
- "name": "pb8",
- "title": "pb8 · 11-08 星河屋",
+ "name": "pb9",
+ "title": "pb9 · 11-08 星河屋12.0",
  "update": [
   {
    "id": "xhs-fcd51c77da",
@@ -736,6 +736,26 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-26e2b56b3d",
+   "name": "光匠童话铺",
+   "shop": "星河屋",
+   "series": "12.0",
+   "films": "特油、亮膜、哑膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "背纸卡板137×220mm；场景卡135×186mm；PET 120×170mm、121×140mm、120×98mm",
+   "sheets": "背纸卡板×1 + 场景卡×1（哑膜）+ PET贴纸×3（数码特油亮膜）",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
   },
   {
    "_id": "xhs-cdead24823",
@@ -16571,6 +16591,16 @@
     "series": "13.0 星喵幻梦小镇",
     "price": "15.6",
     "films": "星光细闪"
+   }
+  },
+  {
+   "shop": "星河屋",
+   "name": "星梦织造铺",
+   "data": {
+    "series": "12.0",
+    "films": "特油、亮膜、哑膜",
+    "size": "背纸卡板137×220mm；场景卡135×186mm；PET 100×150mm×2 + 133×100mm",
+    "sheets": "背纸卡板×1 + 场景卡×1（哑膜）+ PET贴纸×3（数码特油亮膜）"
    }
   }
  ],
