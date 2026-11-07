@@ -1,6 +1,6 @@
 {
- "name": "pa5",
- "title": "pa5 · 11-07 清空到手价",
+ "name": "pa6",
+ "title": "pa6 · 11-07 元旦茶餐厅",
  "update": [
   {
    "id": "xhs-b6d75a0b29",
@@ -732,6 +732,26 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-1ba2612123",
+   "name": "元旦茶餐厅",
+   "shop": "纸间童话",
+   "series": "25.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "11.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "用户提供"
   },
   {
    "_id": "xhs-86fdc3b657",
