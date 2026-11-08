@@ -1,7 +1,16 @@
 {
- "name": "pd7",
- "title": "pd7 · 11-09 新屿言篆刻",
+ "name": "pd8",
+ "title": "pd8 · 11-09 川野风物",
  "update": [
+  {
+   "id": "xhs-0c444dcdb9",
+   "data": {
+    "name": "小糊涂店铺"
+   },
+   "expect": {
+    "name": "小迷糊"
+   }
+  },
   {
    "id": "xhs-f90bf509db",
    "data": {
@@ -868,13 +877,6 @@
    "expect": {
     "__noop__": "x"
    }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
   }
  ],
  "add": [
@@ -892,6 +894,286 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-f82471fbc7",
+   "name": "我当老板！",
+   "shop": "川野风物",
+   "series": "mini1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "定位线场景卡110×154mm",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-7c8df4ddd8",
+   "name": "市场调研",
+   "shop": "川野风物",
+   "series": "mini1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "定位线场景卡110×154mm",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-ae841a4ee4",
+   "name": "炒了老板！",
+   "shop": "川野风物",
+   "series": "mini1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "定位线场景卡110×154mm",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-13e4ee6c1b",
+   "name": "妖市医馆",
+   "shop": "川野风物",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "10.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-2b03d61dd2",
+   "name": "粮油米铺",
+   "shop": "川野风物",
+   "series": "8.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-cd1ea22630",
+   "name": "童梦织屋",
+   "shop": "川野风物",
+   "series": "8.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-2ee9265f4f",
+   "name": "赛博终极",
+   "shop": "川野风物",
+   "series": "7.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "13.99",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-737d971457",
+   "name": "随缘小院",
+   "shop": "川野风物",
+   "series": "5.0",
+   "films": "特油",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "15.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "刀模模切",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-cf1548cb76",
+   "name": "怪力派对",
+   "shop": "川野风物",
+   "series": "5.0",
+   "films": "特油",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "16.5",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "激光模切",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-74c2387e74",
+   "name": "云朵手作屋",
+   "shop": "川野风物",
+   "series": "3A",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-524b8e2418",
+   "name": "川野披萨",
+   "shop": "川野风物",
+   "series": "3A",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-f6ab32a37b",
+   "name": "逛逛美食城",
+   "shop": "川野风物",
+   "series": "3A",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-b1c762861e",
+   "name": "天文博物馆",
+   "shop": "川野风物",
+   "series": "3.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "12.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-5d6e3a9671",
+   "name": "宅家过圣诞",
+   "shop": "川野风物",
+   "series": "2.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
   },
   {
    "_id": "xhs-e70e49bfc9",
@@ -19614,6 +19896,26 @@
    "src": "商家页截图（用户提供）"
   },
   {
+   "_id": "xhs-8151192f30",
+   "name": "小糊涂店铺",
+   "shop": "川野风物",
+   "series": "3.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "小红书 川野 图透"
+  },
+  {
    "_id": "xhs-1786732ffa",
    "name": "今日小镇有风",
    "shop": "橙汁汽水",
@@ -20839,6 +21141,62 @@
    "data": {
     "price": "7.8",
     "films": "亮膜"
+   }
+  },
+  {
+   "shop": "川野风物",
+   "name": "车库植物店",
+   "data": {
+    "price": "12.8"
+   }
+  },
+  {
+   "shop": "川野风物",
+   "name": "东北早市",
+   "data": {
+    "price": "12.8"
+   }
+  },
+  {
+   "shop": "川野风物",
+   "name": "川野药坊",
+   "data": {
+    "series": "5.0",
+    "price": "12.8",
+    "films": "特油",
+    "craft": "刀模模切"
+   }
+  },
+  {
+   "shop": "川野风物",
+   "name": "毛绒小镇",
+   "data": {
+    "price": "14.99"
+   }
+  },
+  {
+   "shop": "川野风物",
+   "name": "约定",
+   "data": {
+    "price": "16.99"
+   }
+  },
+  {
+   "shop": "川野风物",
+   "name": "怀旧街道",
+   "data": {
+    "price": "18.8",
+    "sheets": "A4 PET×6"
+   }
+  },
+  {
+   "shop": "川野风物",
+   "name": "欧洲街道",
+   "data": {
+    "price": "18.8",
+    "films": "特油",
+    "craft": "刀模",
+    "sheets": "A4 PET×4"
    }
   }
  ],
