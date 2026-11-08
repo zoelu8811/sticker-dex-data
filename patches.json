@@ -1,6 +1,6 @@
 {
- "name": "pc3",
- "title": "pc3 · 11-08 造梦管理局",
+ "name": "pc4",
+ "title": "pc4 · 11-08 莓道理",
  "update": [
   {
    "id": "xhs-fcd51c77da",
@@ -736,6 +736,46 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-7a2d9943f9",
+   "name": "围炉煮茶",
+   "shop": "莓道理",
+   "series": "1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "小红书 莓道理文创 透图（用户提供截图）"
+  },
+  {
+   "_id": "xhs-8e9aba473c",
+   "name": "小熊搬新家",
+   "shop": "莓道理",
+   "series": "1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "小红书 莓道理文创 透图（用户提供截图）"
   },
   {
    "_id": "xhs-8294d3362b",
