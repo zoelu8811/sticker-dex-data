@@ -1,7 +1,16 @@
 {
- "name": "pd8",
- "title": "pd8 · 11-09 川野风物",
+ "name": "pd9",
+ "title": "pd9 · 11-09 复古欧洲街",
  "update": [
+  {
+   "id": "xhs-acc6677733",
+   "data": {
+    "name": "复古欧洲街"
+   },
+   "expect": {
+    "name": "欧洲街道"
+   }
+  },
   {
    "id": "xhs-0c444dcdb9",
    "data": {
@@ -757,13 +766,6 @@
    },
    "expect": {
     "films": "贝壳光"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
    }
   },
   {
@@ -19916,6 +19918,26 @@
    "src": "小红书 川野 图透"
   },
   {
+   "_id": "xhs-190467e8dc",
+   "name": "复古欧洲街",
+   "shop": "川野风物",
+   "series": "6.0",
+   "films": "特油",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "18.8",
+   "size": "",
+   "sheets": "A4 PET×4",
+   "fit": "",
+   "craft": "刀模",
+   "pieces": "",
+   "artist": "",
+   "src": "小红书 川野 图透"
+  },
+  {
    "_id": "xhs-1786732ffa",
    "name": "今日小镇有风",
    "shop": "橙汁汽水",
@@ -21187,16 +21209,6 @@
    "data": {
     "price": "18.8",
     "sheets": "A4 PET×6"
-   }
-  },
-  {
-   "shop": "川野风物",
-   "name": "欧洲街道",
-   "data": {
-    "price": "18.8",
-    "films": "特油",
-    "craft": "刀模",
-    "sheets": "A4 PET×4"
    }
   }
  ],
