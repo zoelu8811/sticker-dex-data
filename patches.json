@@ -1,6 +1,6 @@
 {
- "name": "pc5",
- "title": "pc5 · 11-09 白茄子工作室",
+ "name": "pc6",
+ "title": "pc6 · 11-09 合并鳞渊",
  "update": [
   {
    "id": "xhs-fcd51c77da",
@@ -1529,26 +1529,6 @@
    "set": "",
    "theme": "",
    "price": "10.8",
-   "size": "",
-   "sheets": "",
-   "fit": "",
-   "craft": "",
-   "pieces": "",
-   "artist": "",
-   "src": "商家页截图（用户提供）"
-  },
-  {
-   "_id": "xhs-27e8723ae9",
-   "name": "鳞渊",
-   "shop": "白茄子工作室",
-   "series": "8.0 魔法系列",
-   "films": "",
-   "desc": "",
-   "official": false,
-   "type": "",
-   "set": "",
-   "theme": "",
-   "price": "9.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -17284,7 +17264,8 @@
   "seed-325",
   "seed-311",
   "seed-309",
-  "xhs-4fca7d5d1d"
+  "xhs-4fca7d5d1d",
+  "xhs-27e8723ae9"
  ],
  "fill": [
   {
@@ -18212,6 +18193,14 @@
    "name": "阿莉埃蒂客厅",
    "data": {
     "craft": "纸卡带细闪"
+   }
+  },
+  {
+   "shop": "白茄子工作室",
+   "name": "玄蛇鳞渊",
+   "data": {
+    "series": "8.0 魔法系列",
+    "price": "9.8"
    }
   }
  ],
