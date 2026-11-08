@@ -1,6 +1,6 @@
 {
- "name": "pe9",
- "title": "pe9 · 11-09 晓花园24.0",
+ "name": "pf1",
+ "title": "pf1 · 11-09 晓花园39.0",
  "update": [
   {
    "id": "xhs-b1c762861e",
@@ -898,6 +898,26 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-186931c58d",
+   "name": "喵隐四季",
+   "shop": "晓花园",
+   "series": "39.0",
+   "films": "高透亮膜",
+   "desc": "",
+   "official": false,
+   "type": "贴纸本",
+   "set": "",
+   "theme": "",
+   "price": "26.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
   },
   {
    "_id": "xhs-de14f84e50",
