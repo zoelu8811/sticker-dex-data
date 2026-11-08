@@ -1,6 +1,6 @@
 {
- "name": "pd6",
- "title": "pd6 · 11-09 新屿言26.0",
+ "name": "pd7",
+ "title": "pd7 · 11-09 新屿言篆刻",
  "update": [
   {
    "id": "xhs-f90bf509db",
@@ -892,6 +892,26 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-e70e49bfc9",
+   "name": "篆刻",
+   "shop": "新屿言",
+   "series": "19.0 非遗系列",
+   "films": "亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "场景卡纸167×231mm；PET贴纸180×245mm；辅助贴146×146mm",
+   "sheets": "场景卡纸×1 + PET贴纸×2 + 辅助贴×1",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "小红书 新屿言 19.0 非遗系列上新笔记（用户提供截图）"
   },
   {
    "_id": "xhs-a47a996da7",
