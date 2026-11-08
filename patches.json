@@ -1,7 +1,16 @@
 {
- "name": "pd9",
- "title": "pd9 · 11-09 复古欧洲街",
+ "name": "pe1",
+ "title": "pe1 · 11-09 复古欧洲街、天文博物馆5.0",
  "update": [
+  {
+   "id": "xhs-b1c762861e",
+   "data": {
+    "series": "5.0"
+   },
+   "expect": {
+    "series": "3.0"
+   }
+  },
   {
    "id": "xhs-acc6677733",
    "data": {
@@ -872,13 +881,6 @@
    "expect": {
     "__noop__": "x"
    }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
   }
  ],
  "add": [
@@ -1141,7 +1143,7 @@
    "_id": "xhs-b1c762861e",
    "name": "天文博物馆",
    "shop": "川野风物",
-   "series": "3.0",
+   "series": "5.0",
    "films": "",
    "desc": "",
    "official": false,
