@@ -1,6 +1,6 @@
 {
- "name": "pc7",
- "title": "pc7 · 11-09 睡不着文创",
+ "name": "pc8",
+ "title": "pc8 · 11-09 睡不着9.0",
  "update": [
   {
    "id": "xhs-fcd51c77da",
@@ -736,6 +736,26 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-a500b675d0",
+   "name": "便民市场",
+   "shop": "睡不着文创",
+   "series": "9.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "程吉吉",
+   "src": "小红书 睡不着文创 9.0 图透（用户提供截图）"
   },
   {
    "_id": "xhs-deba57d6a9",
