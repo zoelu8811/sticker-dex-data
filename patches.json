@@ -1,6 +1,6 @@
 {
- "name": "pe2",
- "title": "pe2 · 11-09 WEE HOURS凌晨",
+ "name": "pe3",
+ "title": "pe3 · 11-09 晓花园37.0",
  "update": [
   {
    "id": "xhs-b1c762861e",
@@ -898,6 +898,46 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-66221ecc0f",
+   "name": "扁猫冒险岛",
+   "shop": "晓花园",
+   "series": "37.0 喵岛日记系列",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-2d1a51bc5e",
+   "name": "喵呜部落",
+   "shop": "晓花园",
+   "series": "37.0 喵岛日记系列",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "14.9",
+   "size": "",
+   "sheets": "贴纸×3 + 造景卡×1",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
   },
   {
    "_id": "xhs-6082e0d34b",
