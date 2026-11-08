@@ -1,6 +1,6 @@
 {
- "name": "pc6",
- "title": "pc6 · 11-09 合并鳞渊",
+ "name": "pc7",
+ "title": "pc7 · 11-09 睡不着文创",
  "update": [
   {
    "id": "xhs-fcd51c77da",
@@ -736,6 +736,386 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-deba57d6a9",
+   "name": "宅家快乐",
+   "shop": "睡不着文创",
+   "series": "6.0",
+   "films": "高透亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "11.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-c0c908f568",
+   "name": "雾岛难眠",
+   "shop": "睡不着文创",
+   "series": "6.0",
+   "films": "高透亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "12.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-167baa5a81",
+   "name": "一家人的厨房",
+   "shop": "睡不着文创",
+   "series": "2.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-dc4c5ccbc3",
+   "name": "飘雪的季节",
+   "shop": "睡不着文创",
+   "series": "2.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-8cb4f63a40",
+   "name": "买年货",
+   "shop": "睡不着文创",
+   "series": "2.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-0d284faed5",
+   "name": "拜庙烧香",
+   "shop": "睡不着文创",
+   "series": "3.0",
+   "films": "哑膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "11.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-aeb4cdc62b",
+   "name": "庙会前街",
+   "shop": "睡不着文创",
+   "series": "3.0",
+   "films": "哑膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "11.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-5a78c88497",
+   "name": "日式厨房",
+   "shop": "睡不着文创",
+   "series": "1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "11.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-25d041a38c",
+   "name": "藏在小吃街里的大学回忆",
+   "shop": "睡不着文创",
+   "series": "1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "12.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-414ec18c69",
+   "name": "石头城堡",
+   "shop": "睡不着文创",
+   "series": "1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "9.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-d3a224ee11",
+   "name": "香草浴室",
+   "shop": "睡不着文创",
+   "series": "1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "9.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-960ed91ea5",
+   "name": "生鲜店",
+   "shop": "睡不着文创",
+   "series": "5.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-5935861205",
+   "name": "水果店",
+   "shop": "睡不着文创",
+   "series": "5.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-2c23d57329",
+   "name": "炒货店",
+   "shop": "睡不着文创",
+   "series": "5.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-59ab36d042",
+   "name": "小狗街道",
+   "shop": "睡不着文创",
+   "series": "8.0",
+   "films": "哑膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "11.8",
+   "size": "",
+   "sheets": "",
+   "fit": "保姆级定位分区",
+   "craft": "刀模",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-3588d9ec19",
+   "name": "农家生活-春",
+   "shop": "睡不着文创",
+   "series": "7.0",
+   "films": "高透亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "12.8",
+   "size": "",
+   "sheets": "",
+   "fit": "保姆级定位分区",
+   "craft": "刀模",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-a880fe5ee2",
+   "name": "快乐补给站",
+   "shop": "睡不着文创",
+   "series": "4.0",
+   "films": "高透亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "11.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-f07db2128a",
+   "name": "旋转小火锅",
+   "shop": "睡不着文创",
+   "series": "4.0",
+   "films": "高透亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "12.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-6d1986f6de",
+   "name": "韩国烤肉",
+   "shop": "睡不着文创",
+   "series": "一起吃饭吧 1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
   },
   {
    "_id": "xhs-8ebd2daabc",
@@ -18201,6 +18581,171 @@
    "data": {
     "series": "8.0 魔法系列",
     "price": "9.8"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "泰式风味",
+   "data": {
+    "series": "一起吃饭吧 1.0"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "日料小店",
+   "data": {
+    "series": "一起吃饭吧 1.0"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "中华料理",
+   "data": {
+    "series": "一起吃饭吧 1.0"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "我的生活区",
+   "data": {
+    "price": "13.8",
+    "films": "高透亮膜"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "短剧拍摄基地",
+   "data": {
+    "price": "12.8",
+    "films": "高透亮膜"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "农家生活-夏",
+   "data": {
+    "price": "12.8",
+    "films": "高透亮膜"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "农家生活-秋",
+   "data": {
+    "price": "12.8",
+    "films": "高透亮膜"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "农家生活-冬",
+   "data": {
+    "price": "12.8",
+    "films": "高透亮膜"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "呱呱村落",
+   "data": {
+    "price": "11.8",
+    "films": "哑膜"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "三花海岸",
+   "data": {
+    "price": "11.8",
+    "films": "哑膜"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "小兔街道",
+   "data": {
+    "price": "11.8",
+    "films": "哑膜"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "庙会大戏台",
+   "data": {
+    "price": "11.8",
+    "films": "哑膜"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "庙会上的美食",
+   "data": {
+    "price": "11.8",
+    "films": "哑膜"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "浮光轻浅",
+   "data": {
+    "price": "12.8",
+    "films": "高透亮膜"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "老树后街",
+   "data": {
+    "price": "11.8",
+    "films": "高透亮膜"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "农家生活-夏",
+   "data": {
+    "craft": "刀模",
+    "fit": "保姆级定位分区"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "农家生活-秋",
+   "data": {
+    "craft": "刀模",
+    "fit": "保姆级定位分区"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "农家生活-冬",
+   "data": {
+    "craft": "刀模",
+    "fit": "保姆级定位分区"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "呱呱村落",
+   "data": {
+    "craft": "刀模",
+    "fit": "保姆级定位分区"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "三花海岸",
+   "data": {
+    "craft": "刀模",
+    "fit": "保姆级定位分区"
+   }
+  },
+  {
+   "shop": "睡不着文创",
+   "name": "小兔街道",
+   "data": {
+    "craft": "刀模",
+    "fit": "保姆级定位分区"
    }
   }
  ],
