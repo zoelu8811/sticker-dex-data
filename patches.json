@@ -1,6 +1,6 @@
 {
- "name": "pc2",
- "title": "pc2 · 11-08 星河屋6.0-9.0",
+ "name": "pc3",
+ "title": "pc3 · 11-08 造梦管理局",
  "update": [
   {
    "id": "xhs-fcd51c77da",
@@ -736,6 +736,186 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-8294d3362b",
+   "name": "秋日野餐",
+   "shop": "造梦管理局",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-66a8035a02",
+   "name": "樱花树下",
+   "shop": "造梦管理局",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-07b6c6307b",
+   "name": "东京街头",
+   "shop": "造梦管理局",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-7e890c11a0",
+   "name": "温馨绿植小铺",
+   "shop": "造梦管理局",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-fc983ca65e",
+   "name": "町角寿司小铺",
+   "shop": "造梦管理局",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-ee157a2ff5",
+   "name": "夏日荷花",
+   "shop": "造梦管理局",
+   "series": "6.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "14.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-74ce6b77cf",
+   "name": "瓦檐下的田间小院",
+   "shop": "造梦管理局",
+   "series": "6.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "14.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-1818b4259d",
+   "name": "午后调色盘",
+   "shop": "造梦管理局",
+   "series": "8.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "14.8",
+   "size": "背卡244×194mm；场景卡244×154mm；贴纸240×150mm×3 + 170×150mm×1",
+   "sheets": "",
+   "fit": "",
+   "craft": "PET贴纸+白卡",
+   "pieces": "213",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-852ee2e762",
+   "name": "绿野艺居",
+   "shop": "造梦管理局",
+   "series": "2.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "整体212×182mm；贴纸210×140mm×2 + 130×122mm×1；场景卡212×142mm",
+   "sheets": "",
+   "fit": "",
+   "craft": "PET贴纸+白卡",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
   },
   {
    "_id": "xhs-8d951d10d8",
@@ -17001,6 +17181,65 @@
     "films": "特油、亮膜、哑膜",
     "size": "背纸卡板137×220mm；场景卡135×186mm；PET 100×150mm×2 + 133×100mm",
     "sheets": "背纸卡板×1 + 场景卡×1（哑膜）+ PET贴纸×3（数码特油亮膜）"
+   }
+  },
+  {
+   "shop": "造梦管理局",
+   "name": "占星屋",
+   "data": {
+    "price": "13.8"
+   }
+  },
+  {
+   "shop": "造梦管理局",
+   "name": "宿舍一角",
+   "data": {
+    "price": "13.6"
+   }
+  },
+  {
+   "shop": "造梦管理局",
+   "name": "复古田园厨趣",
+   "data": {
+    "price": "13.8"
+   }
+  },
+  {
+   "shop": "造梦管理局",
+   "name": "缤纷厨房时光",
+   "data": {
+    "price": "13.8"
+   }
+  },
+  {
+   "shop": "造梦管理局",
+   "name": "书街拾光",
+   "data": {
+    "price": "13.8"
+   }
+  },
+  {
+   "shop": "造梦管理局",
+   "name": "时光游廊",
+   "data": {
+    "price": "13.8"
+   }
+  },
+  {
+   "shop": "造梦管理局",
+   "name": "圣诞面包房",
+   "data": {
+    "series": "1.0",
+    "price": "13.8",
+    "size": "产品235×217mm；场景卡235×175mm",
+    "craft": "PET贴纸+白卡"
+   }
+  },
+  {
+   "shop": "造梦管理局",
+   "name": "奇幻蘑菇森林",
+   "data": {
+    "price": "14.8"
    }
   }
  ],
