@@ -1,6 +1,6 @@
 {
- "name": "pc8",
- "title": "pc8 · 11-09 睡不着9.0",
+ "name": "pc9",
+ "title": "pc9 · 11-09 删四个小店",
  "update": [
   {
    "id": "xhs-fcd51c77da",
@@ -17665,7 +17665,8 @@
   "seed-311",
   "seed-309",
   "xhs-4fca7d5d1d",
-  "xhs-27e8723ae9"
+  "xhs-27e8723ae9",
+  "xhs-48c0f4707d"
  ],
  "fill": [
   {
