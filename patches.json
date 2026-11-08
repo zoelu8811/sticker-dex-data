@@ -1,7 +1,43 @@
 {
- "name": "pd1",
- "title": "pd1 · 11-09 喜樂粘粘",
+ "name": "pd2",
+ "title": "pd2 · 11-09 喜樂粘粘系列名",
  "update": [
+  {
+   "id": "xhs-b70a45c1b5",
+   "data": {
+    "series": "1.0"
+   },
+   "expect": {
+    "series": "1.0 如果世界有点歪系列"
+   }
+  },
+  {
+   "id": "xhs-7be907eef5",
+   "data": {
+    "series": "1.0"
+   },
+   "expect": {
+    "series": "1.0 艺术家联名系列"
+   }
+  },
+  {
+   "id": "xhs-7c7a54b4bc",
+   "data": {
+    "series": "1.0"
+   },
+   "expect": {
+    "series": "1.0 艺术家联名系列"
+   }
+  },
+  {
+   "id": "xhs-0643b70b70",
+   "data": {
+    "series": "1.0"
+   },
+   "expect": {
+    "series": "1.0 如果世界有点歪系列"
+   }
+  },
   {
    "id": "xhs-fcd51c77da",
    "data": {
@@ -691,34 +727,6 @@
    "expect": {
     "__noop__": "x"
    }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
   }
  ],
  "add": [
@@ -741,7 +749,7 @@
    "_id": "xhs-7c7a54b4bc",
    "name": "陪伴",
    "shop": "喜樂粘粘文创",
-   "series": "1.0 艺术家联名系列",
+   "series": "1.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -761,7 +769,7 @@
    "_id": "xhs-7be907eef5",
    "name": "给时光的保鲜盒",
    "shop": "喜樂粘粘文创",
-   "series": "1.0 艺术家联名系列",
+   "series": "1.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -781,7 +789,7 @@
    "_id": "xhs-b70a45c1b5",
    "name": "海边出了点岔子",
    "shop": "喜樂粘粘文创",
-   "series": "1.0 如果世界有点歪系列",
+   "series": "1.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -18862,7 +18870,6 @@
    "shop": "喜樂粘粘文创",
    "name": "城市出了点乱子",
    "data": {
-    "series": "1.0 如果世界有点歪系列",
     "price": "12.9"
    }
   },
