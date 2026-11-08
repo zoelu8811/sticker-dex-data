@@ -1,6 +1,6 @@
 {
- "name": "pc9",
- "title": "pc9 · 11-09 删四个小店",
+ "name": "pd1",
+ "title": "pd1 · 11-09 喜樂粘粘",
  "update": [
   {
    "id": "xhs-fcd51c77da",
@@ -736,6 +736,86 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-7c7a54b4bc",
+   "name": "陪伴",
+   "shop": "喜樂粘粘文创",
+   "series": "1.0 艺术家联名系列",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "10.9",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-7be907eef5",
+   "name": "给时光的保鲜盒",
+   "shop": "喜樂粘粘文创",
+   "series": "1.0 艺术家联名系列",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "11.2",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-b70a45c1b5",
+   "name": "海边出了点岔子",
+   "shop": "喜樂粘粘文创",
+   "series": "1.0 如果世界有点歪系列",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "12.9",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-4527f47d2a",
+   "name": "侦探事务所",
+   "shop": "喜樂粘粘文创",
+   "series": "2.0",
+   "films": "特油、哑膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "14.4",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "刀模模切",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
   },
   {
    "_id": "xhs-a500b675d0",
@@ -18767,6 +18847,41 @@
    "data": {
     "craft": "刀模",
     "fit": "保姆级定位分区"
+   }
+  },
+  {
+   "shop": "喜樂粘粘文创",
+   "name": "黑乌鸦酒馆",
+   "data": {
+    "series": "2.0",
+    "price": "13.2",
+    "films": "特油"
+   }
+  },
+  {
+   "shop": "喜樂粘粘文创",
+   "name": "城市出了点乱子",
+   "data": {
+    "series": "1.0 如果世界有点歪系列",
+    "price": "12.9"
+   }
+  },
+  {
+   "shop": "喜樂粘粘文创",
+   "name": "魔法学院放学后",
+   "data": {
+    "films": "特油",
+    "sheets": "2.5张贴纸（A4）",
+    "fit": "全定位",
+    "craft": "双层加厚白墨不透"
+   }
+  },
+  {
+   "shop": "喜樂粘粘文创",
+   "name": "怪物都市",
+   "data": {
+    "films": "特油、亮膜",
+    "craft": "双层加厚白墨不透"
    }
   }
  ],
