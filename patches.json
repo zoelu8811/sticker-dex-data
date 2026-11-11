@@ -1,7 +1,25 @@
 {
- "name": "pf4",
- "title": "pf4 · 11-11 卷毛羊",
+ "name": "pf5",
+ "title": "pf5 · 11-11 卷毛羊2.0",
  "update": [
+  {
+   "id": "xhs-0ff9e55a53",
+   "data": {
+    "series": "2.0"
+   },
+   "expect": {
+    "series": ""
+   }
+  },
+  {
+   "id": "xhs-811d132a98",
+   "data": {
+    "series": "2.0"
+   },
+   "expect": {
+    "series": ""
+   }
+  },
   {
    "id": "xhs-b1c762861e",
    "data": {
@@ -867,20 +885,6 @@
    "expect": {
     "__noop__": "x"
    }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
-  },
-  {
-   "id": "__noop__",
-   "data": {},
-   "expect": {
-    "__noop__": "x"
-   }
   }
  ],
  "add": [
@@ -963,7 +967,7 @@
    "_id": "xhs-811d132a98",
    "name": "Oh！超狂欢农场",
    "shop": "卷毛羊",
-   "series": "",
+   "series": "2.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -983,7 +987,7 @@
    "_id": "xhs-0ff9e55a53",
    "name": "24H诡夜便利店",
    "shop": "卷毛羊",
-   "series": "",
+   "series": "2.0",
    "films": "",
    "desc": "",
    "official": false,
