@@ -1,6 +1,6 @@
 {
- "name": "pf8",
- "title": "pf8 · 11-11 喵星人的植愈小窝",
+ "name": "pf9",
+ "title": "pf9 · 11-11 删植愈小窝",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -904,26 +904,6 @@
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
   },
   {
-   "_id": "xhs-e40b594cc5",
-   "name": "喵星人的植愈小窝",
-   "shop": "安宠文创",
-   "series": "2.0",
-   "films": "",
-   "desc": "",
-   "official": false,
-   "type": "",
-   "set": "",
-   "theme": "",
-   "price": "",
-   "size": "247×297mm",
-   "sheets": "PET贴纸×5 + 辅助贴×1",
-   "fit": "",
-   "craft": "",
-   "pieces": "300+",
-   "artist": "",
-   "src": "商家图（用户提供）"
-  },
-  {
    "_id": "xhs-feaf06683d",
    "name": "蘑屋书林",
    "shop": "安宠文创",
@@ -1335,11 +1315,11 @@
    "set": "",
    "theme": "",
    "price": "16.9",
-   "size": "",
-   "sheets": "",
+   "size": "247×297mm",
+   "sheets": "PET贴纸×5 + 辅助贴×1",
    "fit": "",
    "craft": "激光",
-   "pieces": "",
+   "pieces": "300+",
    "artist": "",
    "src": "商家页截图（用户提供）"
   },
@@ -21952,7 +21932,8 @@
   "seed-309",
   "xhs-4fca7d5d1d",
   "xhs-27e8723ae9",
-  "xhs-48c0f4707d"
+  "xhs-48c0f4707d",
+  "xhs-e40b594cc5"
  ],
  "fill": [
   {
