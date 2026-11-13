@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13 18:12",
+ "updated": "2026-11-14 03:07",
  "brands": [
   {
    "name": "十七迹",
@@ -7556,6 +7556,26 @@
      "at": 1794564720000,
      "drop": "",
      "note": "2.0"
+    }
+   ]
+  },
+  {
+   "id": "n_shiyijian",
+   "name": "失忆笺Amnesia文创",
+   "letter": "S",
+   "order": 9422,
+   "status": "done",
+   "n": 0,
+   "pics": 0,
+   "works": [],
+   "nopic": [],
+   "note": "1.0",
+   "doneAt": 1794596820000,
+   "log": [
+    {
+     "at": 1794596820000,
+     "drop": "",
+     "note": "1.0"
     }
    ]
   }
