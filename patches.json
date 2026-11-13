@@ -1,6 +1,6 @@
 {
- "name": "pfd",
- "title": "pfd · 11-14 知物序",
+ "name": "pfe",
+ "title": "pfe · 11-14 知物序3.0",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -902,6 +902,46 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-7aa60dbcdf",
+   "name": "门里春深·浓",
+   "shop": "知物序",
+   "series": "3.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "小红书图透（用户提供）"
+  },
+  {
+   "_id": "xhs-1405690e8a",
+   "name": "门里春深·初",
+   "shop": "知物序",
+   "series": "3.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "星星坞",
+   "src": "小红书图透（用户提供）"
   },
   {
    "_id": "xhs-967e418f7e",
