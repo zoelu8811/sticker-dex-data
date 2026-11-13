@@ -1,6 +1,6 @@
 {
- "name": "pff",
- "title": "pff · 11-14 英菲",
+ "name": "pfg",
+ "title": "pfg · 11-14 英菲系列统一",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -25073,7 +25073,8 @@
   "xhs-4fca7d5d1d",
   "xhs-27e8723ae9",
   "xhs-48c0f4707d",
-  "xhs-e40b594cc5"
+  "xhs-e40b594cc5",
+  "seed-050"
  ],
  "fill": [
   {
@@ -27345,6 +27346,9 @@
  },
  "dedupeShop": [
   "慢一点文创"
+ ],
+ "seriesNorm": [
+  "InfeelMe英菲"
  ],
  "removeShop": [
   "拾乐",
