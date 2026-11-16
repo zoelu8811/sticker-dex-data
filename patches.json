@@ -1,7 +1,7 @@
 {
- "builtAt": 1794843419063,
- "name": "pfj",
- "title": "pfj · 11-16 次元逆旅文创",
+ "builtAt": 1794844858774,
+ "name": "pfk",
+ "title": "pfk · 11-17 次元逆旅改名补价",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -797,17 +797,21 @@
    }
   },
   {
-   "id": "__noop__",
-   "data": {},
+   "id": "xhs-bd7fe0a75b",
+   "data": {
+    "name": "复古女士帽商店"
+   },
    "expect": {
-    "__noop__": "x"
+    "name": "复古女士商贸店"
    }
   },
   {
-   "id": "__noop__",
-   "data": {},
+   "id": "xhs-2ff543b198",
+   "data": {
+    "price": "9.9"
+   },
    "expect": {
-    "__noop__": "x"
+    "price": ""
    }
   },
   {
