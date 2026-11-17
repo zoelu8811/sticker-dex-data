@@ -1,7 +1,7 @@
 {
- "builtAt": 1794942828319,
- "name": "pfp",
- "title": "pfp · 11-18 音乐小镇改全名",
+ "builtAt": 1794943045271,
+ "name": "pfq",
+ "title": "pfq · 11-18 十八印象19.0",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -915,6 +915,46 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-80c4277a29",
+   "name": "山野来信",
+   "shop": "十八印象",
+   "series": "19.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "小红书笔记截图（用户提供）"
+  },
+  {
+   "_id": "xhs-c5c7d4fa04",
+   "name": "傩戏纪年",
+   "shop": "十八印象",
+   "series": "19.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "小红书笔记截图（用户提供）"
   },
   {
    "_id": "xhs-e90cd6cd72",
