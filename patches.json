@@ -1,7 +1,7 @@
 {
- "builtAt": 1794942071290,
- "name": "pfl",
- "title": "pfl · 11-18 十八印象",
+ "builtAt": 1794942101070,
+ "name": "pfm",
+ "title": "pfm · 11-18 十八印象17.0",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -907,6 +907,46 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-3e6e3313d5",
+   "name": "天庭外交事故实录",
+   "shop": "十八印象",
+   "series": "17.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "小红书截图（用户提供）"
+  },
+  {
+   "_id": "xhs-cc1c1d1667",
+   "name": "清明上忘川",
+   "shop": "十八印象",
+   "series": "17.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "小红书截图（用户提供）"
   },
   {
    "_id": "xhs-1ea3a35c8d",
