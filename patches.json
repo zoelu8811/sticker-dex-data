@@ -1,7 +1,7 @@
 {
- "builtAt": 1795071366421,
- "name": "pfu",
- "title": "pfu · 11-19 沐瑶补系列",
+ "builtAt": 1795071380099,
+ "name": "pfv",
+ "title": "pfv · 11-19 沐瑶系列去贝壳光",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -851,10 +851,12 @@
    }
   },
   {
-   "id": "__noop__",
-   "data": {},
+   "id": "seed-196",
+   "data": {
+    "series": "2.0"
+   },
    "expect": {
-    "__noop__": "x"
+    "series": "贝壳光2.0"
    }
   },
   {
