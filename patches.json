@@ -1,7 +1,7 @@
 {
- "builtAt": 1795086723289,
- "name": "pgh",
- "title": "pgh · 11-19 纸迹、雀麦10.0",
+ "builtAt": 1795086889887,
+ "name": "pgi",
+ "title": "pgi · 11-19 纸迹、雀麦10.0、雀麦20.0",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -923,10 +923,12 @@
    }
   },
   {
-   "id": "__noop__",
-   "data": {},
+   "id": "xhs-fb0f758fcc",
+   "data": {
+    "name": "穆塞莱斯街角小墅"
+   },
    "expect": {
-    "__noop__": "x"
+    "name": "穆塞莱斯小墅"
    }
   },
   {
@@ -1071,6 +1073,46 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-ca7fd9f732",
+   "name": "南瓜音乐车",
+   "shop": "雀麦",
+   "series": "20.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "7.8",
+   "size": "中号",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-f478c40d1b",
+   "name": "街巷里的小热闹",
+   "shop": "雀麦",
+   "series": "20.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "12.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
   },
   {
    "_id": "xhs-4e0d709731",
@@ -27971,6 +28013,26 @@
    "pieces": "",
    "artist": "",
    "src": "小红书 橙汁汽水文创 图透（3.0 琉璃贝壳光）"
+  },
+  {
+   "_id": "xhs-b998e63f14",
+   "name": "穆塞莱斯街角小墅",
+   "shop": "雀麦",
+   "series": "20.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "12.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "小红书 雀麦 图透"
   }
  ],
  "remove": [
@@ -31128,6 +31190,20 @@
    "name": "自习咖啡屋",
    "data": {
     "series": "171.0"
+   }
+  },
+  {
+   "shop": "雀麦",
+   "name": "地府团建",
+   "data": {
+    "price": "12.8"
+   }
+  },
+  {
+   "shop": "雀麦",
+   "name": "金色茶歇",
+   "data": {
+    "price": "12.8"
    }
   }
  ],
