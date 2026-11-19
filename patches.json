@@ -1,7 +1,7 @@
 {
- "builtAt": 1795078355656,
- "name": "pgc",
- "title": "pgc · 11-19 口袋山丘19.0、12.0、11.0、10.0、9.0、3.0",
+ "builtAt": 1795078369186,
+ "name": "pgd",
+ "title": "pgd · 11-19 口袋山丘19.0～3.0",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -917,6 +917,46 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-729084e057",
+   "name": "施工小镇",
+   "shop": "口袋山丘",
+   "series": "4.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "用户截图 口袋山丘"
+  },
+  {
+   "_id": "xhs-74d5b6df6d",
+   "name": "来入个镜呀",
+   "shop": "口袋山丘",
+   "series": "4.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "用户截图 口袋山丘"
   },
   {
    "_id": "xhs-3c00dc99cb",
