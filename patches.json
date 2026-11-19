@@ -1,7 +1,7 @@
 {
- "builtAt": 1795078098512,
- "name": "pga",
- "title": "pga · 11-19 口袋山丘19.0、12.0、11.0、9.0",
+ "builtAt": 1795078138584,
+ "name": "pgb",
+ "title": "pgb · 11-19 口袋山丘19.0、12.0、11.0、10.0、9.0",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -917,6 +917,26 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-61d1dfbcdf",
+   "name": "高饱和深夜食堂",
+   "shop": "口袋山丘",
+   "series": "10.0",
+   "films": "广东特油亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "110×110mm",
+   "sheets": "每款 场景卡×1 + 参考卡×1 + 贴纸×2",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "用户截图 口袋山丘"
   },
   {
    "_id": "xhs-ca786136fa",
