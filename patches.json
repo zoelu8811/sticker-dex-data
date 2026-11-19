@@ -1,7 +1,7 @@
 {
- "builtAt": 1795086889887,
- "name": "pgi",
- "title": "pgi · 11-19 纸迹、雀麦10.0、雀麦20.0",
+ "builtAt": 1795086994706,
+ "name": "pgj",
+ "title": "pgj · 11-19 纸迹、雀麦10.0 / 20.0 / 雀实大1.0",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -932,10 +932,14 @@
    }
   },
   {
-   "id": "__noop__",
-   "data": {},
+   "id": "xhs-686094bd16",
+   "data": {
+    "name": "民国苏州河",
+    "series": "雀实大1.0"
+   },
    "expect": {
-    "__noop__": "x"
+    "name": "苏州河",
+    "series": "雀实大系列1.0"
    }
   },
   {
@@ -1073,6 +1077,46 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-f935e03298",
+   "name": "水城威尼斯",
+   "shop": "雀麦",
+   "series": "雀实大1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "15.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-06a4e79150",
+   "name": "港风城寨",
+   "shop": "雀麦",
+   "series": "雀实大1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "15.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商家页截图（用户提供）"
   },
   {
    "_id": "xhs-ca7fd9f732",
@@ -28013,6 +28057,26 @@
    "pieces": "",
    "artist": "",
    "src": "小红书 橙汁汽水文创 图透（3.0 琉璃贝壳光）"
+  },
+  {
+   "_id": "xhs-6a47c10ef8",
+   "name": "民国苏州河",
+   "shop": "雀麦",
+   "series": "雀实大1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "15.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "小红书 雀麦"
   },
   {
    "_id": "xhs-b998e63f14",
