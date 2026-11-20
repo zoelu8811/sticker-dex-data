@@ -1,7 +1,7 @@
 {
- "builtAt": 1795202454987,
- "name": "pgx",
- "title": "pgx · 11-21 壹文创 1.0–11.0（含价格、3.0 非遗）",
+ "builtAt": 1795202535579,
+ "name": "pgy",
+ "title": "pgy · 11-21 壹文创（少年物语、少女绮梦改 5.0）",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1042,17 +1042,21 @@
    }
   },
   {
-   "id": "__noop__",
-   "data": {},
+   "id": "xhs-122a3ed3c9",
+   "data": {
+    "series": "5.0"
+   },
    "expect": {
-    "__noop__": "x"
+    "series": "4.0"
    }
   },
   {
-   "id": "__noop__",
-   "data": {},
+   "id": "xhs-3019d6a834",
+   "data": {
+    "series": "5.0"
+   },
    "expect": {
-    "__noop__": "x"
+    "series": "4.0"
    }
   },
   {
@@ -1444,7 +1448,7 @@
    "_id": "xhs-3019d6a834",
    "name": "少女绮梦",
    "shop": "壹文创",
-   "series": "4.0",
+   "series": "5.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -1464,7 +1468,7 @@
    "_id": "xhs-122a3ed3c9",
    "name": "少年物语",
    "shop": "壹文创",
-   "series": "4.0",
+   "series": "5.0",
    "films": "",
    "desc": "",
    "official": false,
