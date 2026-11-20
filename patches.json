@@ -1,7 +1,7 @@
 {
- "builtAt": 1795158442392,
- "name": "pgt",
- "title": "pgt · 11-20 语闲 方寸秘境",
+ "builtAt": 1795158505491,
+ "name": "pgu",
+ "title": "pgu · 11-20 语闲 方寸秘境（加期数）",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -997,38 +997,48 @@
    }
   },
   {
-   "id": "__noop__",
-   "data": {},
+   "id": "xhs-db7ae8ec7d",
+   "data": {
+    "series": "方寸秘境23.0"
+   },
    "expect": {
-    "__noop__": "x"
+    "series": "方寸秘境"
    }
   },
   {
-   "id": "__noop__",
-   "data": {},
+   "id": "xhs-e8e6a65cd7",
+   "data": {
+    "series": "方寸秘境24.0"
+   },
    "expect": {
-    "__noop__": "x"
+    "series": "方寸秘境"
    }
   },
   {
-   "id": "__noop__",
-   "data": {},
+   "id": "xhs-8d965980d3",
+   "data": {
+    "series": "方寸秘境25.0"
+   },
    "expect": {
-    "__noop__": "x"
+    "series": "方寸秘境"
    }
   },
   {
-   "id": "__noop__",
-   "data": {},
+   "id": "xhs-bc53ea1cce",
+   "data": {
+    "series": "方寸秘境26.0"
+   },
    "expect": {
-    "__noop__": "x"
+    "series": "方寸秘境"
    }
   },
   {
-   "id": "__noop__",
-   "data": {},
+   "id": "xhs-001967eaf1",
+   "data": {
+    "series": "方寸秘境27.0"
+   },
    "expect": {
-    "__noop__": "x"
+    "series": "方寸秘境"
    }
   },
   {
@@ -1094,7 +1104,7 @@
    "_id": "xhs-001967eaf1",
    "name": "昔年暖街回忆录",
    "shop": "语闲",
-   "series": "方寸秘境",
+   "series": "方寸秘境27.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -1114,7 +1124,7 @@
    "_id": "xhs-bc53ea1cce",
    "name": "漫游爱德华大街",
    "shop": "语闲",
-   "series": "方寸秘境",
+   "series": "方寸秘境26.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -1134,7 +1144,7 @@
    "_id": "xhs-8d965980d3",
    "name": "街边时光小店",
    "shop": "语闲",
-   "series": "方寸秘境",
+   "series": "方寸秘境25.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -1154,7 +1164,7 @@
    "_id": "xhs-e8e6a65cd7",
    "name": "街角烘焙慢时光",
    "shop": "语闲",
-   "series": "方寸秘境",
+   "series": "方寸秘境24.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -1174,7 +1184,7 @@
    "_id": "xhs-db7ae8ec7d",
    "name": "童趣剪纸园游记",
    "shop": "语闲",
-   "series": "方寸秘境",
+   "series": "方寸秘境23.0",
    "films": "",
    "desc": "",
    "official": false,
