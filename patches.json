@@ -1,7 +1,7 @@
 {
- "builtAt": 1795289427794,
- "name": "pha",
- "title": "pha · 11-22 补系列 / 价格（纸先生、沐瑶文创、芯陌、语闲、十一玖等）",
+ "builtAt": 1795289572229,
+ "name": "phb",
+ "title": "phb · 11-22 补系列 / 价格（含第七批：悦真、智慧蜥蜴、咔咔呜、寓见诚品、时空工坊）",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -15008,14 +15008,14 @@
    "_id": "xhs-fb1d24e8ca",
    "name": "春日嬉猫",
    "shop": "悦真文创",
-   "series": "",
+   "series": "梦回江南",
    "films": "哑膜",
    "desc": "",
    "official": false,
    "type": "",
    "set": "",
    "theme": "",
-   "price": "",
+   "price": "13.2",
    "size": "186×125mm",
    "sheets": "雾面PET贴纸×2 + 场景白卡×1",
    "fit": "",
@@ -15328,14 +15328,14 @@
    "_id": "xhs-24bc0f4300",
    "name": "奇梦小镇",
    "shop": "悦真文创",
-   "series": "",
+   "series": "奇梦小镇系列",
    "films": "",
    "desc": "",
    "official": false,
    "type": "贴纸本",
    "set": "",
    "theme": "",
-   "price": "",
+   "price": "13.6",
    "size": "",
    "sheets": "10款场景（31张）",
    "fit": "",
@@ -15848,14 +15848,14 @@
    "_id": "xhs-81fa79b08c",
    "name": "微筑奇境",
    "shop": "悦真文创",
-   "series": "",
+   "series": "微筑奇境合集本",
    "films": "",
    "desc": "",
    "official": false,
    "type": "贴纸本",
    "set": "",
    "theme": "",
-   "price": "",
+   "price": "14.71",
    "size": "",
    "sheets": "12张微缩场景",
    "fit": "",
@@ -33078,6 +33078,116 @@
    "name": "困鸦",
    "data": {
     "series": "微恐系列"
+   }
+  },
+  {
+   "shop": "智慧蜥蜴",
+   "name": "惊蛰桃溪赋",
+   "data": {
+    "series": "24节气系列",
+    "price": "14.8"
+   }
+  },
+  {
+   "shop": "智慧蜥蜴",
+   "name": "立秋繁华录",
+   "data": {
+    "series": "24节气系列",
+    "price": "14.8"
+   }
+  },
+  {
+   "shop": "智慧蜥蜴",
+   "name": "钞级玩家",
+   "data": {
+    "series": "IDEAR系列"
+   }
+  },
+  {
+   "shop": "咔咔呜",
+   "name": "标本工作室",
+   "data": {
+    "series": "10.0"
+   }
+  },
+  {
+   "shop": "寓见诚品",
+   "name": "喵嬛旧梦",
+   "data": {
+    "series": "与喵入戏系列",
+    "price": "10.03"
+   }
+  },
+  {
+   "shop": "寓见诚品",
+   "name": "喵说西游",
+   "data": {
+    "series": "与喵入戏系列",
+    "price": "10.03"
+   }
+  },
+  {
+   "shop": "寓见诚品",
+   "name": "喵逛宋时巷",
+   "data": {
+    "series": "古巷喵游记",
+    "price": "7.3"
+   }
+  },
+  {
+   "shop": "寓见诚品",
+   "name": "烟水喵江南",
+   "data": {
+    "series": "古巷喵游记",
+    "price": "7.3"
+   }
+  },
+  {
+   "shop": "寓见诚品",
+   "name": "百草喵药坊",
+   "data": {
+    "series": "古巷喵游记",
+    "price": "7.3"
+   }
+  },
+  {
+   "shop": "寓见诚品",
+   "name": "盛景长安喵",
+   "data": {
+    "series": "古巷喵游记",
+    "price": "7.3"
+   }
+  },
+  {
+   "shop": "时空工坊",
+   "name": "沉默博弈",
+   "data": {
+    "series": "鎏金绘卷",
+    "price": "18.9"
+   }
+  },
+  {
+   "shop": "时空工坊",
+   "name": "神谕之轮",
+   "data": {
+    "series": "鎏金绘卷",
+    "price": "18.9"
+   }
+  },
+  {
+   "shop": "时空工坊",
+   "name": "荆棘圣庭",
+   "data": {
+    "series": "鎏金绘卷",
+    "price": "18.9"
+   }
+  },
+  {
+   "shop": "时空工坊",
+   "name": "风之巡游",
+   "data": {
+    "series": "风之巡游",
+    "price": "18.9"
    }
   }
  ],
