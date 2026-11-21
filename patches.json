@@ -1,7 +1,7 @@
 {
- "builtAt": 1795202535579,
- "name": "pgy",
- "title": "pgy · 11-21 壹文创（少年物语、少女绮梦改 5.0）",
+ "builtAt": 1795289273705,
+ "name": "pgz",
+ "title": "pgz · 11-22 补系列 / 价格（纸先生、沐瑶文创、芯陌、语闲等）",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -18388,7 +18388,7 @@
    "_id": "xhs-16c8d39742",
    "name": "圣诞姜饼小镇",
    "shop": "纸先生",
-   "series": "",
+   "series": "圣诞姜饼小镇",
    "films": "",
    "desc": "",
    "official": false,
@@ -18695,7 +18695,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "",
+   "price": "10.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -18708,14 +18708,14 @@
    "_id": "xhs-335fc38b01",
    "name": "胡桃幻夜",
    "shop": "纸先生",
-   "series": "",
+   "series": "胡桃幻夜系列",
    "films": "",
    "desc": "",
    "official": false,
    "type": "",
    "set": "",
    "theme": "",
-   "price": "",
+   "price": "10.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -18735,7 +18735,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "",
+   "price": "10.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -18755,7 +18755,7 @@
    "type": "",
    "set": "",
    "theme": "",
-   "price": "",
+   "price": "10.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -18768,7 +18768,7 @@
    "_id": "xhs-c6f55de55c",
    "name": "大侦探·紫藤证词",
    "shop": "纸先生",
-   "series": "",
+   "series": "大侦探系列",
    "films": "",
    "desc": "",
    "official": false,
@@ -18788,14 +18788,14 @@
    "_id": "xhs-d9baaa0a30",
    "name": "大侦探·暗处无声",
    "shop": "纸先生",
-   "series": "",
+   "series": "大侦探系列",
    "films": "",
    "desc": "",
    "official": false,
    "type": "",
    "set": "",
    "theme": "",
-   "price": "",
+   "price": "10.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -24428,7 +24428,7 @@
    "_id": "xhs-e9695a9bcc",
    "name": "海港小镇",
    "shop": "芯陌",
-   "series": "",
+   "series": "小镇系列",
    "films": "",
    "desc": "",
    "official": false,
@@ -24908,7 +24908,7 @@
    "_id": "xhs-4b292a5977",
    "name": "汉服店篇",
    "shop": "芯陌",
-   "series": "",
+   "series": "3D小屋10.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -24928,7 +24928,7 @@
    "_id": "xhs-049e625033",
    "name": "温馨小家篇",
    "shop": "芯陌",
-   "series": "",
+   "series": "3D小屋2.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -24988,7 +24988,7 @@
    "_id": "xhs-3e32579c33",
    "name": "书屋篇",
    "shop": "芯陌",
-   "series": "",
+   "series": "3D小屋1.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -25008,7 +25008,7 @@
    "_id": "xhs-055302bf86",
    "name": "浮梦日料",
    "shop": "芯陌",
-   "series": "",
+   "series": "店铺经营2.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -25028,7 +25028,7 @@
    "_id": "xhs-6d32139eb9",
    "name": "时光便利店",
    "shop": "芯陌",
-   "series": "",
+   "series": "店铺经营2.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -25068,7 +25068,7 @@
    "_id": "xhs-a0b1fa2f73",
    "name": "学生宿舍",
    "shop": "芯陌",
-   "series": "",
+   "series": "收纳互动系列",
    "films": "",
    "desc": "",
    "official": false,
@@ -25688,7 +25688,7 @@
    "_id": "xhs-0f556f4ce0",
    "name": "梦境手作店",
    "shop": "芯陌",
-   "series": "",
+   "series": "店铺经营3.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -32774,6 +32774,282 @@
    "name": "金色茶歇",
    "data": {
     "price": "12.8"
+   }
+  },
+  {
+   "shop": "纸先生",
+   "name": "古院新韵·一枕江南",
+   "data": {
+    "series": "别问时春系列",
+    "price": "11.8"
+   }
+  },
+  {
+   "shop": "纸先生",
+   "name": "不打烊的尾巴街（晨昏双场景）",
+   "data": {
+    "series": "动物小镇系列",
+    "price": "9.8"
+   }
+  },
+  {
+   "shop": "沐瑶文创",
+   "name": "无限城堡",
+   "data": {
+    "price": "18.9"
+   }
+  },
+  {
+   "shop": "沐瑶文创",
+   "name": "财神殿",
+   "data": {
+    "series": "22.0",
+    "price": "19.9"
+   }
+  },
+  {
+   "shop": "沐瑶文创",
+   "name": "雷音寺",
+   "data": {
+    "series": "2.0",
+    "price": "17.9"
+   }
+  },
+  {
+   "shop": "沐瑶文创",
+   "name": "无相观音",
+   "data": {
+    "series": "21.0",
+    "price": "20.9"
+   }
+  },
+  {
+   "shop": "沐瑶文创",
+   "name": "天空之城",
+   "data": {
+    "series": "21.0",
+    "price": "20.9"
+   }
+  },
+  {
+   "shop": "沐瑶文创",
+   "name": "宝石之城",
+   "data": {
+    "series": "25.0",
+    "price": "20.9"
+   }
+  },
+  {
+   "shop": "沐瑶文创",
+   "name": "梦幻爱丽丝",
+   "data": {
+    "series": "19.0",
+    "price": "20.5"
+   }
+  },
+  {
+   "shop": "沐瑶文创",
+   "name": "神山不语",
+   "data": {
+    "price": "19.9"
+   }
+  },
+  {
+   "shop": "沐瑶文创",
+   "name": "冥海无岸",
+   "data": {
+    "price": "19.9"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "饰梦工坊展示柜",
+   "data": {
+    "series": "方寸秘境19.0"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "假日喷泉广场",
+   "data": {
+    "series": "方寸秘境21.0"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "柠夏海滨集市",
+   "data": {
+    "series": "方寸秘境22.0"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "南洋茶餐厅",
+   "data": {
+    "series": "方寸秘境20.0"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "荟萃时光杂物志",
+   "data": {
+    "series": "方寸秘境16.0",
+    "price": "10.99"
+   }
+  },
+  {
+   "shop": "芯陌",
+   "name": "女生宿舍（粉色）",
+   "data": {
+    "series": "收纳互动系列"
+   }
+  },
+  {
+   "shop": "芯陌",
+   "name": "宋食百景",
+   "data": {
+    "series": "古风系列",
+    "price": "14.8"
+   }
+  },
+  {
+   "shop": "芯陌",
+   "name": "服装店",
+   "data": {
+    "series": "超大码货系列",
+    "price": "23.8"
+   }
+  },
+  {
+   "shop": "芯陌",
+   "name": "海岛小镇",
+   "data": {
+    "series": "小镇系列"
+   }
+  },
+  {
+   "shop": "芯陌",
+   "name": "海滨小镇",
+   "data": {
+    "series": "小镇系列"
+   }
+  },
+  {
+   "shop": "芯陌",
+   "name": "男生宿舍（蓝色）",
+   "data": {
+    "series": "收纳互动系列"
+   }
+  },
+  {
+   "shop": "芯陌",
+   "name": "超大糖果屋",
+   "data": {
+    "series": "超大码货系列"
+   }
+  },
+  {
+   "shop": "芯陌",
+   "name": "鲜花铺",
+   "data": {
+    "series": "店铺经营5.0"
+   }
+  },
+  {
+   "shop": "芯陌",
+   "name": "草木闲堂",
+   "data": {
+    "series": "店铺经营7.0",
+    "price": "12.8"
+   }
+  },
+  {
+   "shop": "满庄",
+   "name": "晚安故事",
+   "data": {
+    "series": "4.0",
+    "price": "11.7"
+   }
+  },
+  {
+   "shop": "肉团小狗",
+   "name": "小屋改造",
+   "data": {
+    "series": "7.0",
+    "price": "6.8"
+   }
+  },
+  {
+   "shop": "十一玖",
+   "name": "困鸦",
+   "data": {
+    "series": "微恐系列"
+   }
+  },
+  {
+   "shop": "芯陌",
+   "name": "温馨小屋篇",
+   "data": {
+    "series": "3D小屋2.0"
+   }
+  },
+  {
+   "shop": "沐瑶文创",
+   "name": "新·梨园烟波",
+   "data": {
+    "series": "1.0",
+    "price": "17.9"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "书店篇",
+   "data": {
+    "series": "加大版1.0"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "柜里藏猫",
+   "data": {
+    "series": "mini造景贴纸本合集"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "火锅篇",
+   "data": {
+    "series": "加大版2.0"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "猫在家里",
+   "data": {
+    "series": "mini造景贴纸本合集"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "超市篇",
+   "data": {
+    "series": "妙想空间3.0",
+    "price": "6.9"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "饭饭猫1.0",
+   "data": {
+    "series": "饭饭猫微缩造景贴纸书1.0",
+    "price": "21.8"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "饭饭猫2.0",
+   "data": {
+    "series": "饭饭猫微缩造景贴纸书2.0"
    }
   }
  ],
