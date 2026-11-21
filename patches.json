@@ -1,7 +1,7 @@
 {
- "builtAt": 1795289572229,
- "name": "phb",
- "title": "phb · 11-22 补系列 / 价格（含第七批：悦真、智慧蜥蜴、咔咔呜、寓见诚品、时空工坊）",
+ "builtAt": 1795291893685,
+ "name": "phc",
+ "title": "phc · 11-22 语闲 方寸秘境28.0–31.0、琳琅小铺、织绣寄旅",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1103,6 +1103,126 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-3c80d9dfa3",
+   "name": "人间至味是清欢",
+   "shop": "语闲",
+   "series": "方寸秘境31.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "9.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "语闲商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-2fd6f0f6ee",
+   "name": "秋日田园咖啡店",
+   "shop": "语闲",
+   "series": "方寸秘境30.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "10.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "语闲商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-02a60aca50",
+   "name": "闲庭栖木小院",
+   "shop": "语闲",
+   "series": "方寸秘境29.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "9.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "语闲商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-059531b7db",
+   "name": "百味储物柜",
+   "shop": "语闲",
+   "series": "方寸秘境28.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "9.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "语闲商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-539959de36",
+   "name": "织绣寄旅",
+   "shop": "语闲",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "13.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "语闲商家页截图（用户提供）"
+  },
+  {
+   "_id": "xhs-c548fb5294",
+   "name": "琳琅小铺",
+   "shop": "语闲",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "13.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "语闲商家页截图（用户提供）"
   },
   {
    "_id": "xhs-f66feb5b00",
@@ -33188,6 +33308,38 @@
    "data": {
     "series": "风之巡游",
     "price": "18.9"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "饰梦工坊展示柜",
+   "data": {
+    "series": "方寸秘境19.0",
+    "price": "8.8"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "南洋茶餐厅",
+   "data": {
+    "series": "方寸秘境20.0",
+    "price": "8.8"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "假日喷泉广场",
+   "data": {
+    "series": "方寸秘境21.0",
+    "price": "8.8"
+   }
+  },
+  {
+   "shop": "语闲",
+   "name": "柠夏海滨集市",
+   "data": {
+    "series": "方寸秘境22.0",
+    "price": "8.8"
    }
   }
  ],
