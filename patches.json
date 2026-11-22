@@ -1,7 +1,7 @@
 {
- "builtAt": 1795327690851,
- "name": "phf",
- "title": "phf · 11-22 非官方店的价格后面标上店铺名（28 款）",
+ "builtAt": 1795330853591,
+ "name": "phg",
+ "title": "phg · 11-22 开团：小船谣2.0补货、川野风物8.0开售、绵绵星×纸野小猪快乐街补货",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1103,6 +1103,46 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-ed421e1fbf",
+   "name": "魔物商品街",
+   "shop": "川野风物",
+   "series": "8.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "豆包 11-22 开团日报 · 抖音 kawano-8.0"
+  },
+  {
+   "_id": "xhs-382acf1ac9",
+   "name": "花园里的七个秘密",
+   "shop": "小船谣文创",
+   "series": "小船谣2.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "豆包 11-22 开团日报 · 抖音 Boatell小船谣文创"
   },
   {
    "_id": "xhs-8505dfdc9b",
@@ -34156,6 +34196,86 @@
    "platform": "抖音",
    "price": "",
    "note": "时光闲旅3.0"
+  },
+  {
+   "key": "dc83cbf196593ac02",
+   "shop": "小船谣文创",
+   "name": "花园里的七个秘密",
+   "start": 1795346820000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": ""
+  },
+  {
+   "key": "d2f50d07257a87ae3",
+   "shop": "小船谣文创",
+   "name": "花园艺术家",
+   "start": 1795346820000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": ""
+  },
+  {
+   "key": "deef4a88349aa0752",
+   "shop": "小船谣文创",
+   "name": "浮生锦绣",
+   "start": 1795346820000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": ""
+  },
+  {
+   "key": "daa0c4ba0f00f5235",
+   "shop": "纸野",
+   "name": "小猪快乐街",
+   "start": 1795341600000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "绵绵星×纸野 合集本 补货"
+  },
+  {
+   "key": "dea3c1dcabc9d03ba",
+   "shop": "川野风物",
+   "name": "魔物商品街",
+   "start": 1795348800000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "8.0 复古系列 开售"
+  },
+  {
+   "key": "d8ad831e894b1efc8",
+   "shop": "川野风物",
+   "name": "时光藏馆",
+   "start": 1795348800000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "8.0 复古系列 开售"
+  },
+  {
+   "key": "dd58f37ae9cfbfcc0",
+   "shop": "川野风物",
+   "name": "粮油米铺",
+   "start": 1795348800000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "8.0 复古系列 开售"
+  },
+  {
+   "key": "dd1ecee3138c37bf5",
+   "shop": "川野风物",
+   "name": "童梦织屋",
+   "start": 1795348800000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "8.0 复古系列 开售"
   }
  ]
 }
