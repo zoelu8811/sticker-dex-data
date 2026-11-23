@@ -1,7 +1,7 @@
 {
- "builtAt": 1795416021561,
- "name": "phj",
- "title": "phj · 11-23 抖音整理：咔咔呜、朝釉、纸次方、纸间童话等 16 款，悦真文创 9 款",
+ "builtAt": 1795427805908,
+ "name": "phk",
+ "title": "phk · 11-23 开团表：巫巫巫、雀麦、沐瑶×李富贵、知意、卷毛羊等 11/23–11/30 开团时间",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -35078,16 +35078,6 @@
    "note": "方寸秘境31.0 新品"
   },
   {
-   "key": "d67588ff221826e4b",
-   "shop": "摇摇树",
-   "name": "骑楼小街故事多",
-   "start": 1795779000000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "时光闲旅3.0"
-  },
-  {
    "key": "dc83cbf196593ac02",
    "shop": "小船谣文创",
    "name": "花园里的七个秘密",
@@ -35226,6 +35216,216 @@
    "platform": "",
    "price": "",
    "note": "8.0 新品"
+  },
+  {
+   "key": "d322ae4b85bdeda8c",
+   "shop": "巫巫巫文创",
+   "name": "花柩回廊",
+   "start": 1795406400000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "1.0 补货"
+  },
+  {
+   "key": "d15aa65eb9b92bdf0",
+   "shop": "巫巫巫文创",
+   "name": "星落梵宫",
+   "start": 1795406400000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "1.0 补货"
+  },
+  {
+   "key": "d1991dc61a98cfdf9",
+   "shop": "喜樂粘粘文创",
+   "name": "亡灵节巡礼",
+   "start": 1795431600000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "3.0 怪奇系列 补货"
+  },
+  {
+   "key": "dc7a1a6f88e58c89a",
+   "shop": "喜樂粘粘文创",
+   "name": "怪物都市",
+   "start": 1795431600000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "3.0 怪奇系列 补货"
+  },
+  {
+   "key": "d21486690e06395e8",
+   "shop": "喜樂粘粘文创",
+   "name": "魔法学院放学后",
+   "start": 1795431600000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "3.0 怪奇系列 补货"
+  },
+  {
+   "key": "d7b81a01037d1241c",
+   "shop": "满月",
+   "name": "璀璨之殿",
+   "start": 1795436100000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "4.0 补货"
+  },
+  {
+   "key": "d27d1840041c172e5",
+   "shop": "时屿文创",
+   "name": "浮生田园记",
+   "start": 1795519800000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "1.0 浮生田园记等五款"
+  },
+  {
+   "key": "dcec88d54e5a11ad4",
+   "shop": "雀麦",
+   "name": "金色茶歇",
+   "start": 1795604400000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "20.0"
+  },
+  {
+   "key": "dbe8272dcd2514856",
+   "shop": "雀麦",
+   "name": "南瓜音乐车",
+   "start": 1795604400000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "20.0"
+  },
+  {
+   "key": "d08f746e738c59654",
+   "shop": "雀麦",
+   "name": "穆塞莱斯街角小墅",
+   "start": 1795604400000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "20.0"
+  },
+  {
+   "key": "d2de442047a86dbe1",
+   "shop": "摇摇树",
+   "name": "骑楼小街故事多",
+   "start": 1795606200000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "时光闲旅3.0"
+  },
+  {
+   "key": "d09d8c2b3930d387e",
+   "shop": "喜樂粘粘文创",
+   "name": "绯红晚宴",
+   "start": 1795606200000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "喜樂粘粘×沐瑶·李富贵 联名"
+  },
+  {
+   "key": "dd4b1d26593e8c4a3",
+   "shop": "沐瑶文创",
+   "name": "绯红晚宴",
+   "start": 1795608000000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "沐瑶×李富贵 29.0"
+  },
+  {
+   "key": "db2ab15d6b2968386",
+   "shop": "沐瑶文创",
+   "name": "月夜画廊",
+   "start": 1795608000000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "沐瑶×李富贵 29.0"
+  },
+  {
+   "key": "d376a1b12d9d38ef9",
+   "shop": "知意",
+   "name": "柯桥古镇 水上婚礼",
+   "start": 1795953600000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "3.0 补货"
+  },
+  {
+   "key": "dbfe46138889b7a7b",
+   "shop": "知意",
+   "name": "八字桥的清晨",
+   "start": 1795953600000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "3.0 补货"
+  },
+  {
+   "key": "d0b7403d84bf3ad21",
+   "shop": "知意",
+   "name": "安昌古镇",
+   "start": 1795953600000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "3.0 补货"
+  },
+  {
+   "key": "d15c4dea96f2ffee2",
+   "shop": "知意",
+   "name": "府山早市",
+   "start": 1795953600000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "3.0 补货"
+  },
+  {
+   "key": "d41e884c625e914d4",
+   "shop": "卷毛羊",
+   "name": "逮捕 占道经营",
+   "start": 1796037300000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "3.0"
+  },
+  {
+   "key": "d2ecb12d2c6ddc57d",
+   "shop": "卷毛羊",
+   "name": "电玩夜市 炸锅",
+   "start": 1796037300000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "3.0"
+  },
+  {
+   "key": "d5e8eec8b5f60f7ed",
+   "shop": "卷毛羊",
+   "name": "深山 快递翻车",
+   "start": 1796037300000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "3.0"
   }
  ]
 }
