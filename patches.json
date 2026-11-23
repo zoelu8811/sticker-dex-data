@@ -1,7 +1,7 @@
 {
- "builtAt": 1795430190642,
- "name": "phl",
- "title": "phl · 11-23 奶泡屋 1.0 五款、2.0 四款（含 11/23–11/30 开团时间）",
+ "builtAt": 1795430239273,
+ "name": "phm",
+ "title": "phm · 11-23 奶泡屋 1.0 五款、2.0 四款、3.0 两款（含 11/23–11/30 开团时间）",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1103,6 +1103,46 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-2a56e844b3",
+   "name": "奶泡小屋",
+   "shop": "奶泡屋",
+   "series": "3.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "用户 11-23 说"
+  },
+  {
+   "_id": "xhs-d0b722ec10",
+   "name": "奶泡小镇",
+   "shop": "奶泡屋",
+   "series": "3.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "用户 11-23 说"
   },
   {
    "_id": "xhs-f7a5b631da",
