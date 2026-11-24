@@ -1,7 +1,7 @@
 {
- "builtAt": 1795500038253,
- "name": "pho",
- "title": "pho · 11-24 九亩花田、俊贝、云朵日记、凌墨、卷卷怪、一亩恬、停云馆等 19 款 + 补价格；俊贝码货合集本、雾霭镇·雪夜补价格",
+ "builtAt": 1795503509750,
+ "name": "php",
+ "title": "php · 11-24 开团：子亦璃町商厦、时空工坊大世界、口袋山丘、时屿补货",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1103,6 +1103,66 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-3df95f87ce",
+   "name": "满载大超市",
+   "shop": "时空工坊",
+   "series": "大世界",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "14.9",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 上新汇总（用户 11-24 发）"
+  },
+  {
+   "_id": "xhs-e5a901760b",
+   "name": "闲逛大市集",
+   "shop": "时空工坊",
+   "series": "大世界",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "14.9",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 上新汇总（用户 11-24 发）"
+  },
+  {
+   "_id": "xhs-05829a18d4",
+   "name": "璃町商厦",
+   "shop": "子亦文创",
+   "series": "10.0",
+   "films": "",
+   "desc": "5 个主题",
+   "official": false,
+   "type": "合集本",
+   "set": "",
+   "theme": "",
+   "price": "16.9",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 子亦文创（用户 11-24 发）"
   },
   {
    "_id": "xhs-455a5d9a75",
@@ -35981,6 +36041,96 @@
    "platform": "",
    "price": "",
    "note": "3.0"
+  },
+  {
+   "key": "d55731da6c747c781",
+   "shop": "子亦文创",
+   "name": "璃町商厦",
+   "start": 1795485600000,
+   "end": null,
+   "platform": "抖音",
+   "price": "16.9",
+   "note": "10.0 合集本·5主题 上架"
+  },
+  {
+   "key": "d3a8f3c72db6d7af5",
+   "shop": "时空工坊",
+   "name": "闲逛大市集",
+   "start": 1795489200000,
+   "end": null,
+   "platform": "抖音",
+   "price": "14.9",
+   "note": "大世界 上架（allin 29.8）"
+  },
+  {
+   "key": "da50dbb8b32f42ab2",
+   "shop": "时空工坊",
+   "name": "满载大超市",
+   "start": 1795489200000,
+   "end": null,
+   "platform": "抖音",
+   "price": "14.9",
+   "note": "大世界 上架（allin 29.8）"
+  },
+  {
+   "key": "d0f72abe22384996e",
+   "shop": "口袋山丘",
+   "name": "东北东北",
+   "start": 1795518900000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "22.0 补货"
+  },
+  {
+   "key": "dc45623aa2a4b6695",
+   "shop": "口袋山丘",
+   "name": "逛吃山城重庆",
+   "start": 1795518900000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "22.0 补货"
+  },
+  {
+   "key": "d49197a286b114224",
+   "shop": "时屿文创",
+   "name": "森系小窝",
+   "start": 1795519800000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "1.0 补货（5款 allin 55.8）"
+  },
+  {
+   "key": "ddb316d79ec2863ea",
+   "shop": "时屿文创",
+   "name": "落日老街",
+   "start": 1795519800000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "1.0 补货（5款 allin 55.8）"
+  },
+  {
+   "key": "d1db1d9669eaf4106",
+   "shop": "时屿文创",
+   "name": "市井长巷",
+   "start": 1795519800000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "1.0 补货（5款 allin 55.8）"
+  },
+  {
+   "key": "d20bba0aee99beb54",
+   "shop": "时屿文创",
+   "name": "周末派对",
+   "start": 1795519800000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "1.0 补货（5款 allin 55.8）"
   }
  ]
 }
