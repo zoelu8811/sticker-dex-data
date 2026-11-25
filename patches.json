@@ -1,7 +1,7 @@
 {
- "builtAt": 1795592311181,
- "name": "pht",
- "title": "pht · 11-25 开团：柠檬糖 4 款、洛可造景可爱暖屋、菠萝碎碎念熊熊咖啡馆；柠檬糖补系列和材质",
+ "builtAt": 1795592405281,
+ "name": "phu",
+ "title": "phu · 11-25 按期数登记开团：凌墨 1.0、蒸屿 1.0、提拉多 18.0、鑫悦 1.0、馒力社 7.0",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -36178,6 +36178,58 @@
    "platform": "抖音",
    "price": "",
    "note": "14.0+15.0 上新"
+  }
+ ],
+ "dropsBySeries": [
+  {
+   "key": "s3a3e4917123f0b24",
+   "shop": "凌墨文创",
+   "series": "1.0",
+   "start": 1795604400000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "1.0 补货（秋季 全数字编号）"
+  },
+  {
+   "key": "sbda3ef4db98bd79a",
+   "shop": "蒸屿文创",
+   "series": "1.0",
+   "start": 1795608000000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "1.0 上架"
+  },
+  {
+   "key": "s7e0c75bf255a6acd",
+   "shop": "提拉多",
+   "series": "18.0",
+   "start": 1795770000000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "18.0 上架"
+  },
+  {
+   "key": "sb2a0bdfa2e780df0",
+   "shop": "鑫悦文创",
+   "series": "1.0",
+   "start": 1796123880000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "1.0 上架"
+  },
+  {
+   "key": "s50b498c6ee115c21",
+   "shop": "馒力社",
+   "series": "7.0",
+   "start": 1796126400000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "7.0 上架"
   }
  ]
 }
