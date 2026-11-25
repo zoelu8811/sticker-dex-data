@@ -1,7 +1,7 @@
 {
- "builtAt": 1795504215155,
- "name": "phr",
- "title": "phr · 11-24 开团：子亦璃町商厦、时空工坊大世界、口袋山丘、时屿补货；两个眼儿展示台 11-28 补货；卷毛羊 3.0 改 11-29 19:15",
+ "builtAt": 1795592071229,
+ "name": "phs",
+ "title": "phs · 11-25 开团：柠檬糖 4 款、洛可造景可爱暖屋、菠萝碎碎念熊熊咖啡馆",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1103,6 +1103,106 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-6dfb2d5313",
+   "name": "熊熊咖啡馆",
+   "shop": "菠萝碎碎念",
+   "series": "10.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 上新汇总（用户 11-25 发）"
+  },
+  {
+   "_id": "xhs-d10ca59858",
+   "name": "可爱暖屋",
+   "shop": "洛可造景",
+   "series": "2.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 上新汇总（用户 11-25 发）"
+  },
+  {
+   "_id": "xhs-9f93c1896a",
+   "name": "海隅恋晚",
+   "shop": "柠檬糖",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 上新汇总（用户 11-25 发）"
+  },
+  {
+   "_id": "xhs-60c674fa05",
+   "name": "橙光漫野",
+   "shop": "柠檬糖",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 上新汇总（用户 11-25 发）"
+  },
+  {
+   "_id": "xhs-a4aafd0f92",
+   "name": "繁楼听雨声",
+   "shop": "柠檬糖",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 上新汇总（用户 11-25 发）"
   },
   {
    "_id": "xhs-3df95f87ce",
@@ -35450,6 +35550,13 @@
    "data": {
     "price": "13.9"
    }
+  },
+  {
+   "shop": "柠檬糖",
+   "name": "在暴雪时分",
+   "data": {
+    "films": "高透亮膜"
+   }
   }
  ],
  "shopRename": {
@@ -35793,106 +35900,6 @@
    "note": "方寸秘境31.0 新品"
   },
   {
-   "key": "df2e853dffa99c7db",
-   "shop": "元气小坏",
-   "name": "后院花房",
-   "start": 1795433400000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "7.0"
-  },
-  {
-   "key": "d6ce1831bed4cbfa1",
-   "shop": "元气小坏",
-   "name": "阁楼画室",
-   "start": 1795433400000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "7.0"
-  },
-  {
-   "key": "d2c6938684381d490",
-   "shop": "元气小坏",
-   "name": "把浪漫串成项链",
-   "start": 1795433400000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "8.0 新品"
-  },
-  {
-   "key": "d4b972409368abf98",
-   "shop": "元气小坏",
-   "name": "温柔的方寸之间",
-   "start": 1795433400000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "8.0 新品"
-  },
-  {
-   "key": "dd93b3cc29ff7af9d",
-   "shop": "元气小坏",
-   "name": "闺蜜出游计划",
-   "start": 1795433400000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "8.0 新品"
-  },
-  {
-   "key": "d40608bff0b701a35",
-   "shop": "元气小坏",
-   "name": "生日宴会",
-   "start": 1795433400000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "8.0 新品"
-  },
-  {
-   "key": "d1991dc61a98cfdf9",
-   "shop": "喜樂粘粘文创",
-   "name": "亡灵节巡礼",
-   "start": 1795431600000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "3.0 怪奇系列 补货"
-  },
-  {
-   "key": "dc7a1a6f88e58c89a",
-   "shop": "喜樂粘粘文创",
-   "name": "怪物都市",
-   "start": 1795431600000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "3.0 怪奇系列 补货"
-  },
-  {
-   "key": "d21486690e06395e8",
-   "shop": "喜樂粘粘文创",
-   "name": "魔法学院放学后",
-   "start": 1795431600000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "3.0 怪奇系列 补货"
-  },
-  {
-   "key": "d7b81a01037d1241c",
-   "shop": "满月",
-   "name": "璀璨之殿",
-   "start": 1795436100000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "4.0 补货"
-  },
-  {
    "key": "d27d1840041c172e5",
    "shop": "时屿文创",
    "name": "浮生田园记",
@@ -36013,36 +36020,6 @@
    "note": "3.0 补货"
   },
   {
-   "key": "d55731da6c747c781",
-   "shop": "子亦文创",
-   "name": "璃町商厦",
-   "start": 1795485600000,
-   "end": null,
-   "platform": "抖音",
-   "price": "16.9",
-   "note": "10.0 合集本·5主题 上架"
-  },
-  {
-   "key": "d3a8f3c72db6d7af5",
-   "shop": "时空工坊",
-   "name": "闲逛大市集",
-   "start": 1795489200000,
-   "end": null,
-   "platform": "抖音",
-   "price": "14.9",
-   "note": "大世界 上架（allin 29.8）"
-  },
-  {
-   "key": "da50dbb8b32f42ab2",
-   "shop": "时空工坊",
-   "name": "满载大超市",
-   "start": 1795489200000,
-   "end": null,
-   "platform": "抖音",
-   "price": "14.9",
-   "note": "大世界 上架（allin 29.8）"
-  },
-  {
    "key": "d0f72abe22384996e",
    "shop": "口袋山丘",
    "name": "东北东北",
@@ -36141,6 +36118,66 @@
    "platform": "抖音",
    "price": "11.8",
    "note": "3.0 闭不上嘴系列 上架"
+  },
+  {
+   "key": "d789ae61f7726afb7",
+   "shop": "菠萝碎碎念",
+   "name": "熊熊咖啡馆",
+   "start": 1795586400000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "10.0 补货"
+  },
+  {
+   "key": "db45325d08bc97864",
+   "shop": "洛可造景",
+   "name": "可爱暖屋",
+   "start": 1795605480000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "2.0 上架"
+  },
+  {
+   "key": "de2ff7fbddf8bb8da",
+   "shop": "柠檬糖",
+   "name": "在暴雪时分",
+   "start": 1795608000000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "14.0 上新"
+  },
+  {
+   "key": "d09934f379a956443",
+   "shop": "柠檬糖",
+   "name": "繁楼听雨声",
+   "start": 1795608000000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "14.0+15.0 上新"
+  },
+  {
+   "key": "daa55fe91438f2224",
+   "shop": "柠檬糖",
+   "name": "橙光漫野",
+   "start": 1795608000000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "14.0+15.0 上新"
+  },
+  {
+   "key": "d7cc0cbbcd1e724ea",
+   "shop": "柠檬糖",
+   "name": "海隅恋晚",
+   "start": 1795608000000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "14.0+15.0 上新"
   }
  ]
 }
