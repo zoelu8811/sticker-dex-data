@@ -1,7 +1,7 @@
 {
- "builtAt": 1795673865002,
- "name": "pie",
- "title": "pie · 11-26 抖音整理：悦真、艺蓝、语闲、易然、寓见诚品、一纸烟岚、纸次方 新增 9 款、补 2 款",
+ "builtAt": 1795674095893,
+ "name": "pif",
+ "title": "pif · 云星星文创三款改成镊子（先从图鉴撤下，等新版发布）",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1283,66 +1283,6 @@
    "pieces": "",
    "artist": "",
    "src": "抖音 子昂甄选优品仓（用户 11-26 发）"
-  },
-  {
-   "_id": "xhs-ecb281bda8",
-   "name": "四叶草猫",
-   "shop": "云星星文创",
-   "series": "",
-   "films": "",
-   "desc": "",
-   "official": false,
-   "type": "",
-   "set": "",
-   "theme": "",
-   "price": "",
-   "size": "",
-   "sheets": "",
-   "fit": "",
-   "craft": "",
-   "pieces": "",
-   "artist": "",
-   "src": "抖音 已定档（用户 11-26 发）"
-  },
-  {
-   "_id": "xhs-5b3c625ca9",
-   "name": "糖果面包",
-   "shop": "云星星文创",
-   "series": "",
-   "films": "",
-   "desc": "",
-   "official": false,
-   "type": "",
-   "set": "",
-   "theme": "",
-   "price": "",
-   "size": "",
-   "sheets": "",
-   "fit": "",
-   "craft": "",
-   "pieces": "",
-   "artist": "",
-   "src": "抖音 已定档（用户 11-26 发）"
-  },
-  {
-   "_id": "xhs-b3a1d8da33",
-   "name": "苹果彩带",
-   "shop": "云星星文创",
-   "series": "",
-   "films": "",
-   "desc": "",
-   "official": false,
-   "type": "",
-   "set": "",
-   "theme": "",
-   "price": "",
-   "size": "",
-   "sheets": "",
-   "fit": "",
-   "craft": "",
-   "pieces": "",
-   "artist": "",
-   "src": "抖音 已定档（用户 11-26 发）"
   },
   {
    "_id": "xhs-161e4a89d1",
@@ -32953,7 +32893,10 @@
   "xhs-3277b5418c",
   "xhs-3660d43708",
   "xhs-c1e68043f5",
-  "xhs-6409e30bb7"
+  "xhs-6409e30bb7",
+  "xhs-b3a1d8da33",
+  "xhs-5b3c625ca9",
+  "xhs-ecb281bda8"
  ],
  "fill": [
   {
