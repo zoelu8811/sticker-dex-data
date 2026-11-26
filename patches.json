@@ -1,6 +1,6 @@
 {
- "builtAt": 1795687103818,
- "name": "pim",
+ "builtAt": 1795712775593,
+ "name": "pin",
  "title": "pil · 宙·火 7.0：星座款名字后面写上赤焰猫 / 岚云猫 / 青影猫",
  "update": [
   {
@@ -1103,6 +1103,86 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-04a1801f6f",
+   "name": "动物派对·细闪",
+   "shop": "天空岛文创",
+   "series": "4.0",
+   "films": "",
+   "desc": "粉 / 蓝，细闪",
+   "official": false,
+   "type": "工具",
+   "set": "",
+   "theme": "",
+   "price": "17.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商品页截图（用户 11-26 发）"
+  },
+  {
+   "_id": "xhs-8cf1d614ab",
+   "name": "动物派对·黑色线稿",
+   "shop": "天空岛文创",
+   "series": "4.0",
+   "films": "",
+   "desc": "灰粉，无细闪",
+   "official": false,
+   "type": "工具",
+   "set": "",
+   "theme": "",
+   "price": "16.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商品页截图（用户 11-26 发）"
+  },
+  {
+   "_id": "xhs-439091205d",
+   "name": "吐司",
+   "shop": "天空岛文创",
+   "series": "",
+   "films": "",
+   "desc": "米白 / 灰绿 / 复古黄，1 支毛毡装",
+   "official": false,
+   "type": "工具",
+   "set": "",
+   "theme": "",
+   "price": "15.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商品页截图（用户 11-26 发）"
+  },
+  {
+   "_id": "xhs-257b726a3d",
+   "name": "星球",
+   "shop": "天空岛文创",
+   "series": "",
+   "films": "",
+   "desc": "米白 / 灰绿 / 复古黄，1 支毛毡装",
+   "official": false,
+   "type": "工具",
+   "set": "",
+   "theme": "",
+   "price": "15.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "商品页截图（用户 11-26 发）"
   },
   {
    "_id": "xhs-311aff06b1",
@@ -2535,7 +2615,7 @@
    "type": "工具",
    "set": "",
    "theme": "",
-   "price": "",
+   "price": "16.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -38513,76 +38593,6 @@
  ],
  "drops": [
   {
-   "key": "dcec88d54e5a11ad4",
-   "shop": "雀麦",
-   "name": "金色茶歇",
-   "start": 1795604400000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "20.0"
-  },
-  {
-   "key": "dbe8272dcd2514856",
-   "shop": "雀麦",
-   "name": "南瓜音乐车",
-   "start": 1795604400000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "20.0"
-  },
-  {
-   "key": "d08f746e738c59654",
-   "shop": "雀麦",
-   "name": "穆塞莱斯街角小墅",
-   "start": 1795604400000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "20.0"
-  },
-  {
-   "key": "d2de442047a86dbe1",
-   "shop": "摇摇树",
-   "name": "骑楼小街故事多",
-   "start": 1795606200000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "时光闲旅3.0"
-  },
-  {
-   "key": "d09d8c2b3930d387e",
-   "shop": "喜樂粘粘文创",
-   "name": "绯红晚宴",
-   "start": 1795606200000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "喜樂粘粘×沐瑶·李富贵 联名"
-  },
-  {
-   "key": "dd4b1d26593e8c4a3",
-   "shop": "沐瑶文创",
-   "name": "绯红晚宴",
-   "start": 1795608000000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "沐瑶×李富贵 29.0"
-  },
-  {
-   "key": "db2ab15d6b2968386",
-   "shop": "沐瑶文创",
-   "name": "月夜画廊",
-   "start": 1795608000000,
-   "end": null,
-   "platform": "",
-   "price": "",
-   "note": "沐瑶×李富贵 29.0"
-  },
-  {
    "key": "d376a1b12d9d38ef9",
    "shop": "知意",
    "name": "柯桥古镇 水上婚礼",
@@ -38663,56 +38673,6 @@
    "note": "3.0 闭不上嘴系列 上架"
   },
   {
-   "key": "db45325d08bc97864",
-   "shop": "洛可造景",
-   "name": "可爱暖屋",
-   "start": 1795605480000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "2.0 上架"
-  },
-  {
-   "key": "de2ff7fbddf8bb8da",
-   "shop": "柠檬糖",
-   "name": "在暴雪时分",
-   "start": 1795608000000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "14.0 上新"
-  },
-  {
-   "key": "d09934f379a956443",
-   "shop": "柠檬糖",
-   "name": "繁楼听雨声",
-   "start": 1795608000000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "14.0+15.0 上新"
-  },
-  {
-   "key": "daa55fe91438f2224",
-   "shop": "柠檬糖",
-   "name": "橙光漫野",
-   "start": 1795608000000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "14.0+15.0 上新"
-  },
-  {
-   "key": "d7cc0cbbcd1e724ea",
-   "shop": "柠檬糖",
-   "name": "海隅恋晚",
-   "start": 1795608000000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "14.0+15.0 上新"
-  },
-  {
    "key": "d6d5dd0f681a0f19b",
    "shop": "菠萝碎碎念",
    "name": "神灯旅店",
@@ -38721,16 +38681,6 @@
    "platform": "抖音",
    "price": "18.8",
    "note": "10.0 开售"
-  },
-  {
-   "key": "d96b9e3a4a67a68ad",
-   "shop": "蒸屿文创",
-   "name": "甜屿下午茶",
-   "start": 1795608000000,
-   "end": null,
-   "platform": "抖音",
-   "price": "12.6",
-   "note": "1.0 上架"
   },
   {
    "key": "da195f99db8b4b822",
@@ -39014,28 +38964,6 @@
   }
  ],
  "dropsBySeries": [
-  {
-   "tool": false,
-   "key": "s3a3e4917123f0b24",
-   "shop": "凌墨文创",
-   "series": "1.0",
-   "start": 1795604400000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "1.0 补货（秋季 全数字编号）"
-  },
-  {
-   "tool": false,
-   "key": "sbda3ef4db98bd79a",
-   "shop": "蒸屿文创",
-   "series": "1.0",
-   "start": 1795608000000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "1.0 上架"
-  },
   {
    "tool": false,
    "key": "s7e0c75bf255a6acd",
