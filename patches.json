@@ -1,7 +1,7 @@
 {
- "builtAt": 1795673757618,
- "name": "pic",
- "title": "pic · 11-26 开团 22 条、新增 12 款；艺蓝兔兔两款补系列 211.0",
+ "builtAt": 1795673804350,
+ "name": "pid",
+ "title": "pid · 11-26 开团 25 条、新增 15 款（含云星星文创 3 款贴纸）",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1103,6 +1103,66 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-ecb281bda8",
+   "name": "四叶草猫",
+   "shop": "云星星文创",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 已定档（用户 11-26 发）"
+  },
+  {
+   "_id": "xhs-5b3c625ca9",
+   "name": "糖果面包",
+   "shop": "云星星文创",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 已定档（用户 11-26 发）"
+  },
+  {
+   "_id": "xhs-b3a1d8da33",
+   "name": "苹果彩带",
+   "shop": "云星星文创",
+   "series": "",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 已定档（用户 11-26 发）"
   },
   {
    "_id": "xhs-161e4a89d1",
@@ -37146,6 +37206,36 @@
    "platform": "抖音",
    "price": "",
    "note": "31.0 上架"
+  },
+  {
+   "key": "ded9eee68067854ec",
+   "shop": "云星星文创",
+   "name": "苹果彩带",
+   "start": 1795864800000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "上架"
+  },
+  {
+   "key": "d509a4cf6b73005d2",
+   "shop": "云星星文创",
+   "name": "糖果面包",
+   "start": 1795864800000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "上架"
+  },
+  {
+   "key": "d46bea1ba14a4819c",
+   "shop": "云星星文创",
+   "name": "四叶草猫",
+   "start": 1795864800000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "上架"
   }
  ],
  "dropsBySeries": [
