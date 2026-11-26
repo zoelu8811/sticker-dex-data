@@ -1,7 +1,7 @@
 {
- "builtAt": 1795673611676,
- "name": "pib",
- "title": "pib · 11-26 开团：盒子行动、纸泡妖谭、贴可多可、栖痕、沐瑶 30.0、三脚喵 31.0、艺蓝等；新增 12 款",
+ "builtAt": 1795673757618,
+ "name": "pic",
+ "title": "pic · 11-26 开团 22 条、新增 12 款；艺蓝兔兔两款补系列 211.0",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1228,7 +1228,7 @@
    "_id": "xhs-267f003e62",
    "name": "兔兔魔法屋",
    "shop": "艺蓝",
-   "series": "",
+   "series": "211.0",
    "films": "",
    "desc": "",
    "official": false,
@@ -1248,7 +1248,7 @@
    "_id": "xhs-70d069083f",
    "name": "兔兔面包店",
    "shop": "艺蓝",
-   "series": "",
+   "series": "211.0",
    "films": "",
    "desc": "",
    "official": false,
