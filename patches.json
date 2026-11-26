@@ -1,6 +1,6 @@
 {
- "builtAt": 1795712775593,
- "name": "pin",
+ "builtAt": 1795712816890,
+ "name": "pio",
  "title": "pil · 宙·火 7.0：星座款名字后面写上赤焰猫 / 岚云猫 / 青影猫",
  "update": [
   {
@@ -2596,26 +2596,6 @@
    "set": "",
    "theme": "",
    "price": "",
-   "size": "",
-   "sheets": "",
-   "fit": "",
-   "craft": "",
-   "pieces": "",
-   "artist": "",
-   "src": "用户 11-26 发的工具名单"
-  },
-  {
-   "_id": "xhs-653ef0c6b6",
-   "name": "卡通便携镊子套装",
-   "shop": "天空岛文创",
-   "series": "小马镊子",
-   "films": "",
-   "desc": "",
-   "official": false,
-   "type": "工具",
-   "set": "",
-   "theme": "",
-   "price": "16.8",
    "size": "",
    "sheets": "",
    "fit": "",
@@ -34558,7 +34538,8 @@
   "xhs-27e8723ae9",
   "xhs-48c0f4707d",
   "xhs-e40b594cc5",
-  "seed-050"
+  "seed-050",
+  "xhs-653ef0c6b6"
  ],
  "fill": [
   {
