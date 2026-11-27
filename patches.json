@@ -1,7 +1,7 @@
 {
- "builtAt": 1795725135897,
- "name": "pjd",
- "title": "pjd · 词条更新：最近加了 无味清欢 花船、无味清欢 花矢（箭）、无味清欢 天使风铃 等",
+ "builtAt": 1795763748495,
+ "name": "pje",
+ "title": "pje · 词条更新：最近加了 纸野 血河志怪、鱼有猫 火爆披萨、朝釉 水上乐园 等",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1103,6 +1103,66 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-4dbd0ca59e",
+   "name": "血河志怪",
+   "shop": "纸野",
+   "series": "3.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 上新汇总（用户 11-27 发）"
+  },
+  {
+   "_id": "xhs-ebb3cd6ebb",
+   "name": "火爆披萨",
+   "shop": "鱼有猫",
+   "series": "1.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 上新汇总（用户 11-27 发）"
+  },
+  {
+   "_id": "xhs-11784ab7ae",
+   "name": "水上乐园",
+   "shop": "朝釉",
+   "series": "26.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 上新汇总（用户 11-27 发）"
   },
   {
    "_id": "xhs-2216241997",
@@ -2211,6 +2271,66 @@
    "platform": "抖音",
    "price": "29.8",
    "note": "1.0 镊子开售"
+  },
+  {
+   "key": "da195f99db8b4b822",
+   "shop": "提拉多",
+   "name": "微缩场景合集本 户型场景",
+   "start": 1795770000000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "上架"
+  },
+  {
+   "key": "d9a3d54200ee46313",
+   "shop": "朝釉",
+   "name": "水上乐园",
+   "start": 1795777200000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "补货"
+  },
+  {
+   "key": "d9e2e6af98c01d41d",
+   "shop": "鱼有猫",
+   "name": "火爆披萨",
+   "start": 1795777800000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "补货"
+  },
+  {
+   "key": "ddf221836c2e6ece1",
+   "shop": "蒸屿文创",
+   "name": "甜屿下午茶",
+   "start": 1795780800000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "上架"
+  },
+  {
+   "key": "d9e82f90db154be9f",
+   "shop": "沐瑶文创",
+   "name": "绯红晚宴",
+   "start": 1796123880000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "上架（喜樂粘粘×李富贵×沐瑶联名）"
+  },
+  {
+   "key": "d2b4ab6f9fba578b7",
+   "shop": "纸野",
+   "name": "血河志怪",
+   "start": 1796205600000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "补货"
   }
  ],
  "dropsBySeries": [
@@ -2246,6 +2366,83 @@
    "platform": "抖音",
    "price": "",
    "note": "7.0 上架"
+  },
+  {
+   "tool": false,
+   "key": "sc6a626cc354d01a7",
+   "shop": "望月",
+   "series": "2.0",
+   "start": 1796036400000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "上架"
+  },
+  {
+   "tool": false,
+   "key": "scddcc14d67940880",
+   "shop": "望月文创",
+   "series": "2.0",
+   "start": 1796036400000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "上架"
+  },
+  {
+   "tool": false,
+   "key": "sf9b1eed56b76916c",
+   "shop": "纸间童话",
+   "series": "34.0",
+   "start": 1796037300000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "上架"
+  },
+  {
+   "tool": false,
+   "key": "s8614f7fefc6ffca0",
+   "shop": "米糯米",
+   "series": "2.0",
+   "start": 1796040000000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "上架"
+  },
+  {
+   "tool": false,
+   "key": "s2e1c09b1d9dfc952",
+   "shop": "挽风阁",
+   "series": "4.0",
+   "start": 1796209980000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "补货"
+  },
+  {
+   "tool": false,
+   "key": "s2959f38741f5b189",
+   "shop": "玩纸",
+   "series": "7.0",
+   "start": 1796295600000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "上架"
+  },
+  {
+   "tool": false,
+   "key": "sfaa58a470a47d4e7",
+   "shop": "次元逆旅文创",
+   "series": "4.0",
+   "start": 1796299200000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "上架"
   }
  ]
 }
