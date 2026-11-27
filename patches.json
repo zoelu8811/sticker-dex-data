@@ -1,7 +1,7 @@
 {
- "builtAt": 1795804360780,
- "name": "pkm",
- "title": "pkm · 词条更新：最近加了 灵感捕梦阁 角落物语·玄关、灵感捕梦阁 角落物语·画室、灵感捕梦阁 角落物语·咖啡隅 等",
+ "builtAt": 1795804462229,
+ "name": "pkn",
+ "title": "pkn · 词条更新：最近加了 灵感捕梦阁 超超超实惠超市、灵感捕梦阁 噗噗农场、灵感捕梦阁 角落物语·玄关 等",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1103,6 +1103,46 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-5325346bdf",
+   "name": "超超超实惠超市",
+   "shop": "灵感捕梦阁",
+   "series": "10.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "场景卡 208×135mm",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "宣传图（用户 11-28 发）"
+  },
+  {
+   "_id": "xhs-fbbafd99b8",
+   "name": "噗噗农场",
+   "shop": "灵感捕梦阁",
+   "series": "10.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "宣传图（用户 11-28 发）"
   },
   {
    "_id": "xhs-be531f4d5a",
