@@ -1,7 +1,7 @@
 {
- "builtAt": 1795808325845,
- "name": "pkq",
- "title": "pkq · 词条更新：最近加了 灵感捕梦阁 超超超实惠超市、灵感捕梦阁 噗噗农场、灵感捕梦阁 角落物语·玄关 等",
+ "builtAt": 1795808411267,
+ "name": "pkr",
+ "title": "pkr · 词条更新：最近加了 凌墨文创 老城广场冬日傍晚、凌墨文创 冬日雪场、灵感捕梦阁 超超超实惠超市 等",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1103,6 +1103,46 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-de59f8efce",
+   "name": "老城广场冬日傍晚",
+   "shop": "凌墨文创",
+   "series": "3.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "小红书 凌墨小员工（用户 11-28 发）"
+  },
+  {
+   "_id": "xhs-4d678e536a",
+   "name": "冬日雪场",
+   "shop": "凌墨文创",
+   "series": "3.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "小红书 凌墨小员工（用户 11-28 发）"
   },
   {
    "_id": "xhs-5325346bdf",
@@ -6010,6 +6050,26 @@
    "platform": "小红书",
    "price": "16.68",
    "note": "镊子开售"
+  },
+  {
+   "key": "d26bc4785fba301b7",
+   "shop": "凌墨文创",
+   "name": "冬日雪场",
+   "start": 1796727600000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "3.0 上新"
+  },
+  {
+   "key": "d1ddecf3ca5a22a84",
+   "shop": "凌墨文创",
+   "name": "老城广场冬日傍晚",
+   "start": 1796727600000,
+   "end": null,
+   "platform": "",
+   "price": "",
+   "note": "3.0 上新"
   }
  ],
  "dropsBySeries": [
