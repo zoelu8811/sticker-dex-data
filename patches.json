@@ -1,7 +1,7 @@
 {
- "builtAt": 1795767983870,
- "name": "pjp",
- "title": "pjp · 词条更新：最近加了 XIAO TIAN LAI 小恶魔·细闪、XIAO TIAN LAI 棋盘格、XIAO TIAN LAI 蓝色金羽夹 等",
+ "builtAt": 1795787107145,
+ "name": "pjq",
+ "title": "pjq · 词条更新：最近加了 妍莜 堇上繁花、妍莜 奥斯汀、XIAO TIAN LAI 小恶魔·细闪 等",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1103,6 +1103,46 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-8a3def06dc",
+   "name": "堇上繁花",
+   "shop": "妍莜",
+   "series": "",
+   "films": "",
+   "desc": "海豚镊 / 金羽镊，滴胶 + 细闪；常规皮套 19.8，专属皮套 21.8",
+   "official": false,
+   "type": "工具",
+   "set": "",
+   "theme": "",
+   "price": "19.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 商品页（用户 11-27 发）"
+  },
+  {
+   "_id": "xhs-a701978f4b",
+   "name": "奥斯汀",
+   "shop": "妍莜",
+   "series": "",
+   "films": "",
+   "desc": "海豚镊 / 金羽镊，滴胶 + 细闪；常规皮套 19.8，专属皮套 21.8",
+   "official": false,
+   "type": "工具",
+   "set": "",
+   "theme": "",
+   "price": "19.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 商品页（用户 11-27 发）"
   },
   {
    "_id": "xhs-f83ce6d767",
@@ -3780,126 +3820,6 @@
    "platform": "抖音",
    "price": "",
    "note": "7.0 上架"
-  },
-  {
-   "key": "dc89f70818d545349",
-   "shop": "盒子行动",
-   "name": "航海市集",
-   "start": 1795690800000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "5.0 补货"
-  },
-  {
-   "key": "d0be50311b3defed0",
-   "shop": "盒子行动",
-   "name": "海底小镇",
-   "start": 1795690800000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "5.0 补货"
-  },
-  {
-   "key": "dd855f57e3bf3434a",
-   "shop": "盒子行动",
-   "name": "抽屉楼",
-   "start": 1795690800000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "6.0 补货"
-  },
-  {
-   "key": "dc98d2c95a8866576",
-   "shop": "盒子行动",
-   "name": "小镇梦想家",
-   "start": 1795690800000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "6.0 补货"
-  },
-  {
-   "key": "dc65ac733b524b1e9",
-   "shop": "天气晴",
-   "name": "雨中小镇",
-   "start": 1795690800000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "20.0 邂逅时光 上架"
-  },
-  {
-   "key": "df48f00f8cd08c121",
-   "shop": "纸泡",
-   "name": "异相",
-   "start": 1795694400000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "妖谭第二弹 补货"
-  },
-  {
-   "key": "d847449de2c8ae8b3",
-   "shop": "纸泡",
-   "name": "天狗",
-   "start": 1795694400000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "妖谭第二弹 补货"
-  },
-  {
-   "key": "d02b26137feb2e42c",
-   "shop": "纸泡",
-   "name": "画皮",
-   "start": 1795694400000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "妖谭第二弹 补货"
-  },
-  {
-   "key": "d4270b22556586615",
-   "shop": "贴可多可",
-   "name": "堪比疯人院",
-   "start": 1795694400000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "1.0 上架"
-  },
-  {
-   "key": "df8b533ea88b80834",
-   "shop": "贴可多可",
-   "name": "小城故事多",
-   "start": 1795694400000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "2.0 补货"
-  },
-  {
-   "key": "df470a200bd8e1eae",
-   "shop": "贴可多可",
-   "name": "清早上班图I",
-   "start": 1795694400000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "4.0 补货"
-  },
-  {
-   "key": "d2499f6abc8b84d5f",
-   "shop": "贴可多可",
-   "name": "清早上班图II",
-   "start": 1795694400000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "4.0 补货"
   },
   {
    "key": "d1ba10896ba9b2af3",
