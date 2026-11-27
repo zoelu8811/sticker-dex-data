@@ -1,7 +1,7 @@
 {
- "builtAt": 1795764225881,
- "name": "pji",
- "title": "pji · 词条更新：最近加了 摇摇树 时空巷隅、摇摇树 滨海慢时光、摇摇树 春日巴士 等",
+ "builtAt": 1795764732320,
+ "name": "pjj",
+ "title": "pjj · 词条更新：最近加了 舒里舒外工作室 苗蛊少年、舒里舒外工作室 海裔时序、摇摇树 时空巷隅 等",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1105,6 +1105,46 @@
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
   },
   {
+   "_id": "xhs-c18243e10f",
+   "name": "苗蛊少年",
+   "shop": "舒里舒外工作室",
+   "series": "6.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音（用户 11-27 发的清单）"
+  },
+  {
+   "_id": "xhs-5fb3973283",
+   "name": "海裔时序",
+   "shop": "舒里舒外工作室",
+   "series": "6.0",
+   "films": "",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音（用户 11-27 发的清单）"
+  },
+  {
    "_id": "xhs-41102a69f9",
    "name": "时空巷隅",
    "shop": "摇摇树",
@@ -1739,8 +1779,6 @@
   "xhs-48c0f4707d",
   "xhs-e40b594cc5",
   "seed-050",
-  "xhs-5fb3973283",
-  "xhs-c18243e10f",
   "xhs-cd99178319"
  ],
  "fill": [
