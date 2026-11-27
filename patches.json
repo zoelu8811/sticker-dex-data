@@ -1,7 +1,7 @@
 {
- "builtAt": 1795764085828,
- "name": "pjg",
- "title": "pjg · 词条更新：最近加了 贴可多可 鬼怪病院、贴可多可 怪物高校、纸间艺屿 咕咕公寓 等",
+ "builtAt": 1795764115993,
+ "name": "pjh",
+ "title": "pjh · 词条更新：最近加了 摇摇树 台偶小镇、贴可多可 鬼怪病院、贴可多可 怪物高校 等",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1103,6 +1103,26 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-d6f8d1ec38",
+   "name": "台偶小镇",
+   "shop": "摇摇树",
+   "series": "3.0",
+   "films": "高清特亮覆膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "12.8",
+   "size": "",
+   "sheets": "",
+   "fit": "",
+   "craft": "",
+   "pieces": "",
+   "artist": "",
+   "src": "抖音 摇摇树3.0商品页（用户 11-27 发）"
   },
   {
    "_id": "xhs-61b15b79ba",
@@ -2454,6 +2474,16 @@
    "platform": "抖音",
    "price": "",
    "note": "补货"
+  },
+  {
+   "key": "df5b93c65000293eb",
+   "shop": "摇摇树",
+   "name": "台偶小镇",
+   "start": 1795779000000,
+   "end": null,
+   "platform": "抖音",
+   "price": "12.8",
+   "note": "3.0 上架"
   }
  ],
  "dropsBySeries": [
