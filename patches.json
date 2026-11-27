@@ -1,7 +1,7 @@
 {
- "builtAt": 1795787107145,
- "name": "pjq",
- "title": "pjq · 词条更新：最近加了 妍莜 堇上繁花、妍莜 奥斯汀、XIAO TIAN LAI 小恶魔·细闪 等",
+ "builtAt": 1795788346244,
+ "name": "pjr",
+ "title": "pjr · 词条更新：最近加了 晓花园 草莓派对、晓花园 樱花派对、妍莜 堇上繁花 等",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -1103,6 +1103,46 @@
    "craft": "PET",
    "theme": "街景店铺",
    "src": "https://post.smzdm.com/p/a3mo3qdk/"
+  },
+  {
+   "_id": "xhs-38122ba66e",
+   "name": "草莓派对",
+   "shop": "晓花园",
+   "series": "31.0",
+   "films": "亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "290mm×180mm 内",
+   "sheets": "1 张场景卡 + 3 张 PET",
+   "fit": "",
+   "craft": "PET，普刀模切",
+   "pieces": "",
+   "artist": "",
+   "src": "商品详情图（用户 11-27 发）"
+  },
+  {
+   "_id": "xhs-0c380eb00c",
+   "name": "樱花派对",
+   "shop": "晓花园",
+   "series": "31.0",
+   "films": "亮膜",
+   "desc": "",
+   "official": false,
+   "type": "",
+   "set": "",
+   "theme": "",
+   "price": "",
+   "size": "290mm×180mm 内",
+   "sheets": "1 张场景卡 + 3 张 PET",
+   "fit": "",
+   "craft": "PET，普刀模切",
+   "pieces": "",
+   "artist": "",
+   "src": "商品详情图（用户 11-27 发）"
   },
   {
    "_id": "xhs-8a3def06dc",
