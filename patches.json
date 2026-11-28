@@ -1,7 +1,7 @@
 {
- "builtAt": 1795808449747,
- "name": "pks",
- "title": "pks · 词条更新：最近加了 凌墨文创 老城广场冬日傍晚、凌墨文创 冬日雪场、灵感捕梦阁 超超超实惠超市 等",
+ "builtAt": 1795856084133,
+ "name": "pkt",
+ "title": "pkt · 词条更新：最近加了 凌墨文创 老城广场冬日傍晚、凌墨文创 冬日雪场、灵感捕梦阁 超超超实惠超市 等",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -5692,16 +5692,6 @@
    "note": "7.0 上架"
   },
   {
-   "key": "d1ba10896ba9b2af3",
-   "shop": "艺蓝",
-   "name": "像素风亮膜合集本",
-   "start": 1795752000000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "合集本 上架"
-  },
-  {
    "key": "de62a4fe4a2925490",
    "shop": "栖痕文创",
    "name": "东北洗浴中心",
@@ -6193,6 +6183,39 @@
    "platform": "抖音",
    "price": "",
    "note": "7.0 开售"
+  },
+  {
+   "tool": false,
+   "key": "s8c590868f2c54900",
+   "shop": "可可露丽",
+   "series": "3.0",
+   "start": 1795953600000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "补货（3.0 文创店）"
+  },
+  {
+   "tool": false,
+   "key": "s2a65eb42b431b1c4",
+   "shop": "可可露丽",
+   "series": "4.0",
+   "start": 1795953600000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "补货（4.0 猫猫小巷）"
+  },
+  {
+   "tool": false,
+   "key": "s896375f738e7a697",
+   "shop": "米糯米",
+   "series": "3.0",
+   "start": 1796040000000,
+   "end": null,
+   "platform": "抖音",
+   "price": "",
+   "note": "补货（下雪天的氛围感）"
   }
  ]
 }
