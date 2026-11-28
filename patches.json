@@ -1,7 +1,7 @@
 {
- "builtAt": 1795856407811,
- "name": "pkv",
- "title": "pkv · 词条更新：最近加了 北极星文创 天使沐浴室、北极星文创 深海疗愈室、北极星文创 元气补给站 等",
+ "builtAt": 1795856648049,
+ "name": "pkw",
+ "title": "pkw · 词条更新：最近加了 北极星文创 天使沐浴室、北极星文创 深海疗愈室、北极星文创 元气补给站 等",
  "update": [
   {
    "id": "xhs-0ff9e55a53",
@@ -5303,7 +5303,8 @@
  "shopRename": {
   "语闲（有控生活馆）": "语闲",
   "慢一点": "慢一点文创",
-  "又木": "又木文创"
+  "又木": "又木文创",
+  "望月": "望月文创"
  },
  "dedupeShop": [
   "慢一点文创"
@@ -6332,46 +6333,6 @@
    "note": "1.0"
   },
   {
-   "key": "dcfddcaefa3d8ee41",
-   "shop": "望月",
-   "name": "贩梦典当行",
-   "start": 1796036400000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "2.0 梦核系列"
-  },
-  {
-   "key": "dfd70bbd86f28c948",
-   "shop": "望月",
-   "name": "妖怪的婚礼",
-   "start": 1796036400000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "2.0 梦核系列"
-  },
-  {
-   "key": "d22cfba15b35db8a4",
-   "shop": "望月",
-   "name": "树屋居委会",
-   "start": 1796036400000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "3.0 动物森林系列"
-  },
-  {
-   "key": "d7896605c327441b9",
-   "shop": "望月",
-   "name": "云涧休闲街",
-   "start": 1796036400000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "3.0 动物森林系列"
-  },
-  {
    "key": "db9fcc6a7d3ed4bf8",
    "shop": "望月文创",
    "name": "贩梦典当行",
@@ -6504,17 +6465,6 @@
    "platform": "抖音",
    "price": "",
    "note": "7.0 上架"
-  },
-  {
-   "tool": false,
-   "key": "sc6a626cc354d01a7",
-   "shop": "望月",
-   "series": "2.0",
-   "start": 1796036400000,
-   "end": null,
-   "platform": "抖音",
-   "price": "",
-   "note": "上架"
   },
   {
    "tool": false,
